@@ -14,7 +14,7 @@ dependencies = [
     "tenacity==8.2.2",
     "tiktoken==0.6.0",
     "serpapi==0.1.5",
-    "azure-search-documents==11.6.0b11",
+    "azure-search-documents==11.6.0b12",
     "azure-identity>=1.22.0",
     "scrapy==2.11.0",
     "beautifulsoup4==4.12.2",
