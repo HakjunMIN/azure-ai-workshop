@@ -42,7 +42,6 @@ python main.py
 Make sure to set these in your `.env` file:
 - `AZURE_OPENAI_ENDPOINT`
 - `AZURE_OPENAI_KEY`
-- `CHAT_COMPLETION_NAME`
 - `AZURE_OPENAI_DEPLOYMENT_NAME`
 - `EMBEDDING_MODEL_NAME`
 - `SERP_API_KEY`

@@ -44,7 +44,6 @@ Azure OpenAI 자격 증명으로 `.env` 파일을 업데이트하세요:
 ```bash
 AZURE_OPENAI_ENDPOINT=https://your-endpoint.openai.azure.com/
 AZURE_OPENAI_KEY=your-api-key
-CHAT_COMPLETION_NAME=gpt-4
 AZURE_OPENAI_DEPLOYMENT_NAME=gpt-4
 EMBEDDING_MODEL_NAME=text-embedding-ada-002
 SERP_API_KEY=your-serp-api-key
