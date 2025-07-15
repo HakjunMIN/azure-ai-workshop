@@ -125,8 +125,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "appdirs"
 version = "1.4.4"
 source = { registry = "https://pypi.org/simple" }
@@ -302,20 +300,16 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "azure-ai-workshop"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
-<<<<<<< Updated upstream
-=======
     { name = "azure-ai-evaluation", extra = ["redteam"] },
     { name = "azure-ai-projects" },
     { name = "azure-identity" },
     { name = "azure-search-documents" },
     { name = "beautifulsoup4" },
     { name = "ipykernel" },
->>>>>>> Stashed changes
     { name = "matplotlib" },
     { name = "openai" },
     { name = "pandas" },
@@ -329,26 +323,18 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-<<<<<<< Updated upstream
-=======
     { name = "azure-ai-evaluation", extras = ["redteam"], specifier = "==1.7.0" },
     { name = "azure-ai-projects", specifier = "==1.0.0b10" },
     { name = "azure-identity", specifier = ">=1.22.0" },
     { name = "azure-search-documents", specifier = "==11.6.0b12" },
     { name = "beautifulsoup4", specifier = "==4.12.2" },
     { name = "ipykernel" },
->>>>>>> Stashed changes
     { name = "matplotlib", specifier = "==3.9.0" },
     { name = "openai", specifier = "==1.55.3" },
     { name = "pandas", specifier = "==2.1.3" },
-<<<<<<< Updated upstream
-    { name = "python-dotenv", specifier = "==1.0.0" },
-    { name = "requests", specifier = "==2.31.0" },
-=======
     { name = "python-dotenv", specifier = "==1.0.1" },
     { name = "redis", specifier = "==6.1.0" },
     { name = "requests", specifier = "==2.32.2" },
->>>>>>> Stashed changes
     { name = "scikit-learn", specifier = "==1.3.0" },
     { name = "serpapi", specifier = "==0.1.5" },
     { name = "tenacity", specifier = "==8.2.3" },
@@ -356,8 +342,6 @@ requires-dist = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "azure-cognitiveservices-speech"
 version = "1.44.0"
 source = { registry = "https://pypi.org/simple" }
@@ -508,7 +492,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "certifi"
 version = "2025.4.26"
 source = { registry = "https://pypi.org/simple" }
@@ -574,8 +557,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "comm"
 version = "0.2.2"
 source = { registry = "https://pypi.org/simple" }
@@ -615,7 +596,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "contourpy"
 version = "1.3.2"
 source = { registry = "https://pypi.org/simple" }
@@ -743,8 +723,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "docstring-parser"
 version = "0.16"
 source = { registry = "https://pypi.org/simple" }
@@ -896,7 +874,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "fonttools"
 version = "4.57.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1204,8 +1181,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "importlib-metadata"
 version = "8.7.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1410,7 +1385,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "jiter"
 version = "0.9.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1778,8 +1752,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "lxml"
 version = "5.4.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1872,7 +1844,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "matplotlib"
 version = "3.9.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1898,8 +1869,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "matplotlib-inline"
 version = "0.1.7"
 source = { registry = "https://pypi.org/simple" }
@@ -2152,7 +2121,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "numpy"
 version = "1.26.4"
 source = { registry = "https://pypi.org/simple" }
@@ -2317,10 +2285,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-name = "pillow"
-version = "11.2.1"
-=======
 name = "pandocfilters"
 version = "1.5.1"
 source = { registry = "https://pypi.org/simple" }
@@ -2348,7 +2312,6 @@ wheels = [
 [[package]]
 name = "parso"
 version = "0.8.4"
->>>>>>> Stashed changes
 source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/66/94/68e2e17afaa9169cf6412ab0f28623903be73d1b32e208d9e8e541bb086d/parso-0.8.4.tar.gz", hash = "sha256:eb3a7b58240fb99099a345571deecc0f9540ea5f4dd2fe14c2a99d6b281ab92d", size = 400609 }
 wheels = [
@@ -2557,8 +2520,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "protego"
 version = "0.4.0"
 source = { registry = "https://pypi.org/simple" }
@@ -2689,7 +2650,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "pydantic"
 version = "2.11.4"
 source = { registry = "https://pypi.org/simple" }
@@ -2747,8 +2707,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "pydash"
 version = "7.0.7"
 source = { registry = "https://pypi.org/simple" }
@@ -2826,7 +2784,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "pyparsing"
 version = "3.2.3"
 source = { registry = "https://pypi.org/simple" }
@@ -2836,8 +2793,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "pypdf"
 version = "5.6.1"
 source = { registry = "https://pypi.org/simple" }
@@ -2902,7 +2857,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "python-dateutil"
 version = "2.9.0.post0"
 source = { registry = "https://pypi.org/simple" }
@@ -2942,8 +2896,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "pywin32"
 version = "310"
 source = { registry = "https://pypi.org/simple" }
@@ -3065,7 +3017,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "regex"
 version = "2024.11.6"
 source = { registry = "https://pypi.org/simple" }
@@ -3119,8 +3070,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "requests-file"
 version = "2.1.0"
 source = { registry = "https://pypi.org/simple" }
@@ -3276,7 +3225,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "scikit-learn"
 version = "1.3.0"
 source = { registry = "https://pypi.org/simple" }
@@ -3327,8 +3275,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "scrapy"
 version = "2.11.0"
 source = { registry = "https://pypi.org/simple" }
@@ -3389,7 +3335,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "serpapi"
 version = "0.1.5"
 source = { registry = "https://pypi.org/simple" }
@@ -3429,10 +3374,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-name = "tenacity"
-version = "8.2.2"
-=======
 name = "soupsieve"
 version = "2.7"
 source = { registry = "https://pypi.org/simple" }
@@ -3444,7 +3385,6 @@ wheels = [
 [[package]]
 name = "sqlalchemy"
 version = "2.0.41"
->>>>>>> Stashed changes
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "greenlet", marker = "(python_full_version < '3.14' and platform_machine == 'AMD64') or (python_full_version < '3.14' and platform_machine == 'WIN32') or (python_full_version < '3.14' and platform_machine == 'aarch64') or (python_full_version < '3.14' and platform_machine == 'amd64') or (python_full_version < '3.14' and platform_machine == 'ppc64le') or (python_full_version < '3.14' and platform_machine == 'win32') or (python_full_version < '3.14' and platform_machine == 'x86_64')" },
@@ -3579,8 +3519,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "tinycss2"
 version = "1.4.0"
 source = { registry = "https://pypi.org/simple" }
@@ -3661,7 +3599,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "tqdm"
 version = "4.67.1"
 source = { registry = "https://pypi.org/simple" }
@@ -3674,8 +3611,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< Updated upstream
-=======
 name = "traitlets"
 version = "5.14.3"
 source = { registry = "https://pypi.org/simple" }
@@ -3756,7 +3691,6 @@ wheels = [
 ]
 
 [[package]]
->>>>>>> Stashed changes
 name = "typing-extensions"
 version = "4.13.2"
 source = { registry = "https://pypi.org/simple" }
@@ -3803,8 +3737,6 @@ sdist = { url = "https://files.pythonhosted.org/packages/8a/78/16493d9c386d8e60e
 wheels = [
     { url = "https://files.pythonhosted.org/packages/6b/11/cc635220681e93a0183390e26485430ca2c7b5f9d33b15c74c2861cb8091/urllib3-2.4.0-py3-none-any.whl", hash = "sha256:4e16665048960a0900c702d4a66415956a584919c03361cac9f1df5c5dd7e813", size = 128680 },
 ]
-<<<<<<< Updated upstream
-=======
 
 [[package]]
 name = "w3lib"
@@ -4046,4 +3978,3 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/b6/66/ac05b741c2129fdf668b85631d2268421c5cd1a9ff99be1674371139d665/zope.interface-7.2-cp313-cp313-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:a71a5b541078d0ebe373a81a3b7e71432c61d12e660f1d67896ca62d9628045b", size = 264696 },
     { url = "https://files.pythonhosted.org/packages/0a/2f/1bccc6f4cc882662162a1158cda1a7f616add2ffe322b28c99cb031b4ffc/zope.interface-7.2-cp313-cp313-win_amd64.whl", hash = "sha256:4893395d5dd2ba655c38ceb13014fd65667740f09fa5bb01caa1e6284e48c0cd", size = 212472 },
 ]
->>>>>>> Stashed changes
