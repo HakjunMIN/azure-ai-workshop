@@ -1,0 +1,27 @@
+name: Setup Codespace Environment
+
+on:
+  codespaces:
+    types: [created]
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Welcome Message
+        run: |
+          echo "🚀 Welcome to Azure AI Workshop Codespace!"
+          echo "The environment is being set up automatically..."
+          echo "Please wait for the setup to complete before starting."
+          
+      - name: Check Environment
+        run: |
+          echo "Python version: $(python --version)"
+          echo "UV version: $(uv --version || echo 'UV not found')"
+          echo "Node version: $(node --version || echo 'Node not found')"
+          
+      - name: Environment Ready
+        run: |
+          echo "✅ Environment setup completed!"
+          echo "You can now start working with the notebooks."
+          echo "Don't forget to configure your .env file with Azure OpenAI credentials."

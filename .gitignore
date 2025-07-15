@@ -76,3 +76,7 @@ htmlcov/
 
 # Documentation
 docs/_build/
+
+.scan*
+red_team_output.json
+sinewave.png
