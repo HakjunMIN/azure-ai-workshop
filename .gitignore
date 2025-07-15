@@ -8,8 +8,71 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment files
 .env
-sinewave.png
-.scan*
-redteam.log
-red_team_output.json
+.env.local
+.env.*.local
+
+# Jupyter Notebook
+.ipynb_checkpoints
+jupyter_config/
+.jupyter/
+
+# VS Code
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+*.code-workspace
+.history/
+
+# Operating System
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*~
+
+# Azure
+.azure/
+
+# Logs and temporary files
+*.log
+logs/
+*.tmp
+*.temp
+.cache/
+
+# Project specific
+data/temp/
+output/
+models/
+checkpoints/
+
+# Package managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.uv/
+
+# IDE
+.idea/
+.spyderproject
+.spyproject
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Documentation
+docs/_build/

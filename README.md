@@ -1,20 +1,39 @@
-# Azure OpenAI Workshop  (Part #1)
+# Azure OpenAI Workshop (Part #1)
 
-## Quick Start
+## 🚀 GitHub Codespace Ready!
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main)
+
+이 저장소는 자동 환경 설정으로 **GitHub Codespaces**에 완전히 구성되어 있습니다!
+
+### Codespaces 빠른 시작:
+1. 위의 "Open in GitHub Codespaces" 배지를 클릭하세요
+2. 자동 설정 완료를 기다리세요 (2-3분)
+3. Azure OpenAI 자격 증명으로 `.env` 파일을 업데이트하세요
+4. 노트북 탐색을 시작하세요!
+
+### 수동 로컬 설정:
 
 ```bash
-
 uv venv .venv --python 3.12 --seed
 source .venv/bin/activate
 uv pip install -r pyproject.toml
-
 ```
 
 ## 환경설정
 
 ```bash
 cp .env.sample .env
+# Update .env with your Azure OpenAI credentials
 ```
+
+## 🛠️ Technology Stack
+
+- **Python 3.12+** with uv package manager
+- **Azure OpenAI** integration
+- **Jupyter Lab/Notebook** environment
+- **ML Libraries**: pandas, scikit-learn, matplotlib
+- **AI Tools**: OpenAI, tiktoken, tenacity
 
 ## Jupyter Notebook 상세 요약
 
