@@ -10,3 +10,6 @@ wheels/
 .venv
 .env
 sinewave.png
+.scan*
+redteam.log
+red_team_output.json
