@@ -23,3 +23,6 @@ dependencies = [
     "azure-ai-evaluation[redteam]==1.7.0", 
     "ipykernel"
 ]
+
+[tool.setuptools.packages.find]
+exclude = ["data*", "advanced*"]
