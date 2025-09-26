@@ -1,0 +1,650 @@
+[
+    {
+        "id": "1",
+        "title": "Azure 앱 서비스",
+        "content": "Azure 앱 서비스는 웹 앱을 구축, 배포 및 확장할 수 있는 완전 관리형 플랫폼입니다. 웹 앱, 모바일 앱 백엔드, RESTful API를 호스팅할 수 있습니다. .NET, Java, Node.js, Python, PHP 등 다양한 언어와 프레임워크를 지원합니다. 자동 확장 및 부하 분산 기능이 내장되어 있으며, Azure DevOps, GitHub, Bitbucket 등 다른 Azure 서비스와의 통합도 제공합니다.",
+        "category": "웹"
+    },
+    {
+        "id": "2",
+        "title": "Azure 펑션",
+        "content": "Azure 펑션은 인프라 관리 없이 코드를 온디맨드로 실행할 수 있는 서버리스 컴퓨팅 서비스입니다. 이벤트 기반 애플리케이션을 구축 및 배포할 수 있으며, 워크로드에 따라 자동으로 확장됩니다. C#, F#, Node.js, Python, Java 등 다양한 언어를 지원하며, 다양한 트리거와 바인딩을 통해 Azure 및 외부 서비스와 통합할 수 있습니다. 사용한 컴퓨팅 시간만큼만 비용을 지불합니다.",
+        "category": "컴퓨트"
+    },
+    {
+        "id": "3",
+        "title": "Azure 코그니티브 서비스",
+        "content": "Azure 코그니티브 서비스는 강력한 알고리즘을 몇 줄의 코드로 사용할 수 있게 해주는 AI 서비스 모음입니다. 비전, 음성, 언어, 지식, 검색 등 다양한 기능을 제공합니다. 사용 및 통합이 쉽고, 완전 관리형이며 확장 가능하고 지속적으로 개선됩니다. 머신러닝에 대한 깊은 전문 지식 없이도 AI 기반 솔루션을 개발할 수 있습니다.",
+        "category": "AI + 머신러닝"
+    },
+    {
+        "id": "4",
+        "title": "Azure 스토리지",
+        "content": "Azure 스토리지는 다양한 데이터 유형(Blob, 파일, 큐, 테이블)을 지원하는 확장 가능하고 내구성 높은 클라우드 스토리지 서비스입니다. 비정형 데이터에 대한 대규모 객체 저장소를 제공합니다. 데이터 중복 및 지리적 복제를 지원하여 높은 내구성과 가용성을 보장합니다. REST API, SDK, Azure Portal 등 다양한 데이터 접근 및 관리 옵션을 제공하며, 저장 및 전송 시 암호화를 통해 데이터를 보호할 수 있습니다.",
+        "category": "스토리지"
+    },
+    {
+        "id": "5",
+        "title": "Azure SQL 데이터베이스",
+        "content": "Azure SQL 데이터베이스는 최신 안정 버전의 Microsoft SQL Server를 기반으로 한 완전 관리형 관계형 데이터베이스 서비스입니다. 내장된 인텔리전스가 애플리케이션 패턴을 학습하여 성능, 신뢰성, 데이터 보호를 극대화합니다. 탄력적 확장을 지원하여 워크로드에 따라 리소스를 동적으로 조정할 수 있습니다. 암호화, 감사, 위협 탐지 등 고급 보안 기능을 제공하며, 기존 SQL Server 데이터베이스를 최소 다운타임으로 마이그레이션할 수 있습니다.",
+        "category": "데이터베이스"
+    },
+    {
+        "id": "6",
+        "title": "Azure 코스모스 DB",
+        "content": "Azure 코스모스 DB는 전 세계적으로 분산되고 다중 모델을 지원하는 완전 관리형 데이터베이스 서비스입니다. 글로벌 분산, 자동 및 즉각적 확장, 낮은 지연 시간, 높은 가용성 및 일관성을 보장합니다. MongoDB, Cassandra, Gremlin, Azure Table Storage 등 인기 있는 NoSQL API를 지원합니다. 복잡한 구성이나 용량 계획 없이 글로벌 분산 애플리케이션을 쉽게 구축할 수 있습니다. 저장된 데이터는 자동으로 인덱싱되어 SQL, JavaScript 등 다양한 쿼리 언어로 조회할 수 있습니다.",
+        "category": "데이터베이스"
+    },
+    {
+        "id": "7",
+        "title": "Azure 쿠버네티스 서비스(AKS)",
+        "content": "Azure 쿠버네티스 서비스(AKS)는 오픈소스 쿠버네티스를 기반으로 한 관리형 컨테이너 오케스트레이션 서비스입니다. 쿠버네티스 배포 및 관리를 단순화하여 컨테이너화된 애플리케이션을 쉽게 배포, 확장, 관리할 수 있습니다. 자동 업그레이드, 확장, 자가 치유 기능을 제공하여 운영 부담을 줄입니다. Azure Active Directory, Azure Monitor, Azure Policy 등과 통합되어 애플리케이션 및 인프라 관리를 지원합니다.",
+        "category": "컨테이너"
+    },
+    {
+        "id": "8",
+        "title": "Azure 가상 머신",
+        "content": "Azure 가상 머신(VM)은 클라우드에서 가상 머신을 배포 및 관리할 수 있는 IaaS(서비스형 인프라)입니다. 다양한 VM 크기, 운영 체제, 소프트웨어 구성을 선택할 수 있습니다. Windows Server, Linux, SQL Server 등 다양한 운영 체제를 지원하며, 필요에 따라 VM을 확장하거나 축소할 수 있습니다. Azure Security Center, Azure Active Directory, 암호화 등 내장 보안 기능을 제공합니다.",
+        "category": "컴퓨트"
+    },
+    {
+        "id": "9",
+        "title": "Azure 데브옵스",
+        "content": "Azure 데브옵스는 애플리케이션 계획, 빌드, 배포를 지원하는 서비스 모음입니다. Azure Boards(작업 추적), Azure Repos(소스 코드 관리), Azure Pipelines(CI/CD), Azure Test Plans(테스트), Azure Artifacts(패키지 관리) 등을 포함합니다. 다양한 언어, 프레임워크, 플랫폼을 지원하며, 기존 개발 도구 및 프로세스와 쉽게 통합할 수 있습니다. Azure App Service, Azure Functions 등 다른 Azure 서비스와도 연동됩니다.",
+        "category": "개발자 도구"
+    },
+    {
+        "id": "10",
+        "title": "Azure IoT 허브",
+        "content": "Azure IoT 허브는 수십억 개의 IoT 장치를 연결, 모니터링 및 관리할 수 있는 관리형 서비스입니다. IoT 장치와 백엔드 솔루션 간의 안전하고 신뢰할 수 있는 통신을 제공합니다. MQTT, AMQP, HTTPS 등 다양한 통신 프로토콜을 지원합니다. 장치-클라우드 및 클라우드-장치 메시징, 장치 관리, 장치 트윈 기능을 제공합니다. IoT 허브를 사용하여 다른 Azure 서비스 및 사용자 지정 애플리케이션과 통합된 확장 가능하고 안전한 IoT 솔루션을 구축할 수 있습니다.",
+        "category": "사물인터넷"
+    },
+    {
+        "id": "11",
+        "title": "Azure 머신러닝",
+        "content": "Azure 머신러닝은 머신러닝 모델을 구축, 훈련 및 배포할 수 있는 클라우드 기반 서비스입니다. 실험을 생성 및 관리할 수 있는 시각적 인터페이스와 Python, R 등 인기 있는 프로그래밍 언어를 지원합니다. 다양한 알고리즘, 프레임워크, 데이터 소스를 지원하여 기존 데이터 및 워크플로와 쉽게 통합할 수 있습니다. 모델을 웹 서비스로 배포하고 필요에 따라 확장할 수 있습니다. Azure Databricks, Azure Data Factory 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "AI + 머신러닝"
+    },
+    {
+        "id": "12",
+        "title": "Azure 데이터브릭스",
+        "content": "Azure 데이터브릭스는 Azure 클라우드에 최적화된 Apache Spark 기반 분석 플랫폼입니다. 데이터 과학자, 엔지니어, 비즈니스 사용자가 빅데이터를 처리, 분석 및 시각화할 수 있는 협업 작업 공간을 제공합니다. Python, Scala, R, SQL 등 다양한 프로그래밍 언어를 지원합니다. Azure Blob Storage, Azure Data Lake Storage, Azure Cosmos DB와의 통합이 내장되어 있습니다. 데이터브릭스를 사용하여 머신러닝 모델을 훈련 및 배포하고, Azure Machine Learning과 통합할 수 있습니다.",
+        "category": "분석"
+    },
+    {
+        "id": "13",
+        "title": "Azure 액티브 디렉터리",
+        "content": "Azure 액티브 디렉터리(Azure AD)는 애플리케이션 및 리소스에 대한 액세스를 관리하고 보호할 수 있는 클라우드 기반 ID 및 액세스 관리 서비스입니다. SSO(싱글 사인온), MFA(다단계 인증), 조건부 액세스 정책 등의 기능을 제공합니다. 온프레미스 Active Directory 및 Google, Facebook과 같은 타사 ID 공급자와의 통합을 지원합니다. Azure AD를 사용하여 클라우드 기반 및 온프레미스 애플리케이션을 보호하고, 직원, 파트너, 고객의 액세스를 관리할 수 있습니다.",
+        "category": "ID"
+    },
+    {
+        "id": "14",
+        "title": "Azure 로직 앱",
+        "content": "Azure 로직 앱은 다양한 서비스 및 데이터 소스와 통합된 워크플로를 생성 및 실행할 수 있는 클라우드 기반 서비스입니다. 워크플로를 생성할 수 있는 시각적 디자이너를 제공하며, Office 365, Salesforce, Dropbox 등 인기 있는 서비스에 대한 다양한 커넥터를 지원합니다. 로직 앱을 사용하여 코드를 작성하지 않고 작업을 자동화하고, 데이터를 처리 및 변환하며, 복잡한 프로세스를 오케스트레이션할 수 있습니다. Azure Portal, REST API, PowerShell을 사용하여 워크플로를 모니터링하고 관리할 수 있습니다.",
+        "category": "통합"
+    },
+    {
+        "id": "15",
+        "title": "Azure 이벤트 허브",
+        "content": "Azure 이벤트 허브는 초당 수백만 개의 이벤트를 스트리밍하고 처리할 수 있는 완전 관리형 실시간 데이터 수집 서비스입니다. IoT 장치, 애플리케이션, 서비스 등 다양한 데이터 프로듀서를 지원합니다. 이벤트 허브는 낮은 지연 시간, 높은 처리량, 확장 가능한 데이터 스트리밍을 제공하여 텔레메트리 처리 및 로그 분석과 같은 빅데이터 시나리오에 적합합니다. Azure Stream Analytics, Azure Functions 등 다른 Azure 서비스와 함께 사용하여 엔드 투 엔드 실시간 데이터 처리 솔루션을 구축할 수 있습니다.",
+        "category": "빅데이터"
+    },
+    {
+        "id": "16",
+        "title": "Azure API 관리",
+        "content": "Azure API 관리는 애플리케이션용 API를 생성, 게시 및 관리할 수 있는 완전 관리형 서비스입니다. API 문서화, 개발자 포털, 액세스 제어, 캐싱 등의 기능을 제공합니다. REST, SOAP, GraphQL 등 다양한 API 형식을 지원합니다. API 관리를 사용하여 인증, 권한 부여, IP 필터링을 통해 API를 보호할 수 있습니다. 내장된 분석 및 모니터링 기능을 제공하여 API 사용 및 성능을 추적할 수 있습니다.",
+        "category": "통합"
+    },
+    {
+        "id": "17",
+        "title": "Azure 데이터 팩토리",
+        "content": "Azure 데이터 팩토리는 데이터 워크플로를 생성, 예약 및 관리할 수 있는 클라우드 기반 데이터 통합 서비스입니다. Azure Blob Storage, Azure SQL Database, 온프레미스 파일 시스템 등 다양한 소스 및 대상으로의 데이터 이동을 지원합니다. 데이터 팩토리는 워크플로를 설계하고 모니터링할 수 있는 시각적 인터페이스와 Python, .NET 등 인기 있는 프로그래밍 언어를 지원합니다. 데이터를 이동 및 변환하고, 복잡한 데이터 처리 작업을 오케스트레이션하며, 다른 Azure 서비스와 통합할 수 있습니다.",
+        "category": "분석"
+    },
+    {
+        "id": "18",
+        "title": "Azure 시냅스 분석",
+        "content": "Azure 시냅스 분석은 빅데이터와 데이터 웨어하우징을 통합한 분석 서비스입니다. 데이터를 수집, 준비, 관리 및 제공하여 즉각적인 비즈니스 인텔리전스 및 머신러닝 요구를 충족할 수 있습니다. 데이터 엔지니어, 데이터 과학자, 비즈니스 분석가가 협업하여 솔루션을 구축할 수 있는 통합 작업 공간을 제공합니다. Azure Data Lake Storage, Azure Blob Storage, Azure Cosmos DB 등 다양한 데이터 소스를 지원합니다. Azure Machine Learning, Power BI 등 다른 Azure 서비스와 함께 사용할 수 있습니다.",
+        "category": "분석"
+    },
+    {
+        "id": "19",
+        "title": "Azure 배치",
+        "content": "Azure 배치는 대규모 병렬 및 고성능 컴퓨팅(HPC) 애플리케이션을 실행할 수 있는 클라우드 기반 작업 스케줄링 서비스입니다. 자동 확장, 작업 스케줄링, 리소스 관리 등의 기능을 제공합니다. 다양한 VM 크기, 운영 체제, 애플리케이션 프레임워크를 지원하여 기존 워크로드와 쉽게 통합할 수 있습니다. 대규모 데이터 세트를 처리하고, 시뮬레이션을 실행하며, 복잡한 계산을 수행할 수 있습니다. Azure Storage, Azure Active Directory 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "컴퓨트"
+    },
+    {
+        "id": "20",
+        "title": "Azure CDN",
+        "content": "Azure 콘텐츠 전송 네트워크(CDN)는 전 세계적으로 콘텐츠를 낮은 지연 시간과 높은 가용성으로 사용자에게 제공할 수 있는 글로벌 콘텐츠 전송 네트워크입니다. 사용자 근처의 엣지 서버에서 콘텐츠를 캐시하고 제공하여 웹 애플리케이션의 성능과 신뢰성을 향상시킵니다. 정적 파일, 비디오, 이미지 등 다양한 콘텐츠 유형을 지원합니다. 지오 필터링, 사용자 지정 도메인, SSL 인증서와 같은 고급 기능을 제공합니다. Azure App Service, Azure Storage 등 다른 Azure 서비스와 함께 사용할 수 있습니다.",
+        "category": "네트워킹"
+    },
+    {
+        "id": "21",
+        "title": "Azure 익스프레스라우트",
+        "content": "Azure 익스프레스라우트는 온프레미스 인프라와 Azure 간의 전용 네트워크 연결을 제공하는 서비스입니다. 표준 인터넷 연결보다 빠른 속도, 낮은 지연 시간, 높은 신뢰성을 제공합니다. 포인트 투 포인트, 애니 투 애니, 허브 앤 스포크 등 다양한 연결 모델을 지원합니다. 익스프레스라우트를 사용하여 온프레미스 네트워크를 Azure로 확장하고, 하이브리드 애플리케이션을 구축하며, 워크로드를 클라우드로 마이그레이션할 수 있습니다. Azure Virtual Machines, Azure Storage 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "네트워킹"
+    },
+    {
+        "id": "22",
+        "title": "Azure 트래픽 매니저",
+        "content": "Azure 트래픽 매니저는 여러 Azure 서비스 및 지역 간의 트래픽을 분산할 수 있는 DNS 기반 트래픽 부하 분산기입니다. 자동 장애 조치, 성능 기반 라우팅, 지리적 라우팅 등의 기능을 제공합니다. Azure App Service, Azure Cloud Services, Azure Virtual Machines 등 다양한 Azure 서비스를 지원합니다. 트래픽 매니저를 사용하여 고가용성 및 응답성이 높은 애플리케이션을 구축하고, 사용자 경험을 최적화하며, 인프라의 복원력을 향상시킬 수 있습니다.",
+        "category": "네트워킹"
+    },
+    {
+        "id": "23",
+        "title": "Azure 가상 네트워크",
+        "content": "Azure 가상 네트워크(VNet)는 Azure에서 프라이빗 네트워크를 생성 및 관리할 수 있는 네트워킹 서비스입니다. 서브넷, 네트워크 보안 그룹, 가상 네트워크 피어링 등의 기능을 제공합니다. Azure Virtual Machines, Azure App Service, Azure Kubernetes Service 등 다양한 Azure 서비스를 지원합니다. VNet을 사용하여 격리된 환경을 구축하고, 온프레미스 네트워크를 Azure에 연결하며, 애플리케이션 및 리소스를 보호할 수 있습니다. Azure ExpressRoute, Azure Traffic Manager 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "네트워킹"
+    },
+    {
+        "id": "24",
+        "title": "Azure 방화벽",
+        "content": "Azure 방화벽은 Azure Virtual Network 리소스를 보호할 수 있는 관리형 클라우드 기반 네트워크 보안 서비스입니다. 상태 저장 패킷 검사, 애플리케이션 필터링, 위협 인텔리전스 등의 기능을 제공합니다. TCP, UDP, ICMP 등 다양한 네트워크 프로토콜을 지원합니다. Azure 방화벽을 사용하여 네트워크 보안 정책을 생성 및 적용하고, 무단 액세스를 방지하며, 애플리케이션 및 데이터를 보호할 수 있습니다. Azure Monitor, Azure Security Center 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "보안"
+    },
+    {
+        "id": "25",
+        "title": "Azure 프라이빗 링크",
+        "content": "Azure 프라이빗 링크는 프라이빗 연결을 통해 Azure 서비스를 액세스할 수 있는 네트워킹 서비스입니다. 프라이빗 IP 주소, 안전한 연결, 간소화된 네트워크 아키텍처 등의 기능을 제공합니다. Azure Storage, Azure SQL Database, Azure App Service 등 다양한 Azure 서비스를 지원합니다. 프라이빗 링크를 사용하여 안전하고 규정을 준수하는 애플리케이션을 구축하고, 공용 인터넷에 대한 노출을 줄이며, 네트워크 관리를 간소화할 수 있습니다. Azure Virtual Network, Azure ExpressRoute 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "네트워킹"
+    },
+    {
+        "id": "26",
+        "title": "Azure 사이트 복구",
+        "content": "Azure 사이트 복구는 애플리케이션 및 데이터를 보호하기 위해 복제, 장애 조치 및 워크로드 복구를 오케스트레이션할 수 있는 재해 복구 서비스입니다. Azure, 온프레미스, 타사 클라우드 공급자 등 다양한 플랫폼을 지원합니다. 자동 복구, 애플리케이션 일관성, 네트워크 통합 등의 기능을 제공합니다. 사이트 복구를 사용하여 비즈니스 연속성 및 재해 복구 요구 사항을 충족하고, 다운타임을 최소화하며, 업계 규정을 준수할 수 있습니다. Azure Backup, Azure Monitor 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "관리 + 거버넌스"
+    },
+    {
+        "id": "27",
+        "title": "Azure 백업",
+        "content": "Azure 백업은 데이터 및 애플리케이션을 손실 및 손상으로부터 보호할 수 있는 클라우드 기반 백업 서비스입니다. Azure, 온프레미스, 타사 클라우드 공급자 등 다양한 플랫폼을 지원합니다. 증분 백업, 데이터 암호화, 장기 보존 등의 기능을 제공합니다. Azure 백업을 사용하여 데이터 보호 요구 사항을 충족하고, 비즈니스 연속성을 보장하며, 업계 규정을 준수할 수 있습니다. Azure Site Recovery, Azure Storage 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "관리 + 거버넌스"
+    },
+    {
+        "id": "28",
+        "title": "Azure 서비스 버스",
+        "content": "Azure 서비스 버스는 신뢰할 수 있고 확장 가능한 애플리케이션을 구축할 수 있는 완전 관리형 엔터프라이즈급 메시징 서비스입니다. 메시지 큐잉, 게시-구독, 데드 레터링 등의 기능을 제공합니다. 포인트 투 포인트, 브로드캐스트, 요청-응답 등 다양한 메시징 패턴을 지원합니다. 서비스 버스를 사용하여 애플리케이션 및 서비스를 통합하고, 시스템 구성 요소를 분리하며, 비동기 통신을 처리할 수 있습니다. Azure Functions, Azure Logic Apps 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "통합"
+    },
+    {
+        "id": "29",
+        "title": "Azure 스트림 분석",
+        "content": "Azure 스트림 분석은 빠르게 이동하는 대량의 데이터를 실시간으로 분석하고 처리할 수 있는 실시간 데이터 스트림 처리 서비스입니다. Azure Event Hubs, Azure IoT Hub, Azure Blob Storage 등 다양한 데이터 소스를 지원합니다. 윈도잉, 시간 기반 집계, 사용자 정의 함수 등의 기능을 제공합니다. 스트림 분석을 사용하여 실시간 대시보드를 구축하고, 이상 징후를 감지하며, 경고를 생성할 수 있습니다. Azure Functions, Azure Machine Learning 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "분석"
+    },
+    {
+        "id": "30",
+        "title": "Azure 알림 허브",
+        "content": "Azure 알림 허브는 iOS, Android, Windows 등 다양한 플랫폼의 사용자에게 알림을 보낼 수 있는 확장 가능한 모바일 푸시 알림 서비스입니다. 개인화된 알림, 템플릿, 로컬라이제이션 등의 기능을 제공합니다. Apple Push Notification Service(APNS), Firebase Cloud Messaging(FCM), Windows Notification Service(WNS) 등 다양한 푸시 알림 서비스를 지원합니다. 알림 허브를 사용하여 사용자와 소통하고, 사용자 유지율을 높이며, 앱 사용을 증가시킬 수 있습니다. Azure Mobile Apps, Azure Functions 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "모바일"
+    },
+    {
+        "id": "31",
+        "title": "Azure 모바일 앱",
+        "content": "Azure 모바일 앱은 모바일 애플리케이션을 구축, 테스트, 배포 및 모니터링할 수 있는 모바일 앱 개발 플랫폼입니다. 오프라인 데이터 동기화, 푸시 알림, 사용자 인증 등의 기능을 제공합니다. iOS, Android, Windows 등 다양한 플랫폼을 지원합니다. 모바일 앱을 사용하여 크로스 플랫폼 애플리케이션을 구축하고, 다른 Azure 서비스와 통합하며, 앱 개발 수명 주기를 개선할 수 있습니다. Azure Notification Hubs, Azure App Service 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "모바일"
+    },
+    {
+        "id": "32",
+        "title": "Azure 타임 시리즈 인사이트",
+        "content": "Azure 타임 시리즈 인사이트는 시계열 데이터를 탐색하고 분석할 수 있는 완전 관리형 분석, 스토리지 및 시각화 서비스입니다. Azure IoT Hub, Azure Event Hubs, Azure Blob Storage 등 다양한 데이터 소스를 지원합니다. 실시간 데이터 스트리밍, 고급 쿼리, 패턴 인식 등의 기능을 제공합니다. 타임 시리즈 인사이트를 사용하여 IoT 장치를 모니터링하고, 이상 징후를 감지하며, 데이터에 대한 인사이트를 얻을 수 있습니다. Azure Stream Analytics, Azure Machine Learning 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "분석"
+    },
+    {
+        "id": "33",
+        "title": "Azure 디지털 트윈",
+        "content": "Azure 디지털 트윈은 물리적 자산, 환경 및 프로세스의 디지털 표현을 생성할 수 있는 IoT 서비스입니다. 공간 인텔리전스, 트윈 그래프, 이벤트 기반 함수 등의 기능을 제공합니다. Azure IoT Hub, Azure Event Hubs, Azure Blob Storage 등 다양한 데이터 소스를 지원합니다. 디지털 트윈을 사용하여 연결된 솔루션을 구축하고, 운영을 최적화하며, 의사 결정을 개선할 수 있습니다. Azure Time Series Insights, Azure Machine Learning 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "사물인터넷"
+    },
+    {
+        "id": "34",
+        "title": "Azure 데이터 익스플로러",
+        "content": "Azure 데이터 익스플로러는 대량의 데이터를 실시간으로 분석할 수 있는 빠르고 완전 관리형 데이터 분석 서비스입니다. 데이터 수집, 쿼리, 시각화 등의 기능을 제공합니다. Azure Event Hubs, Azure IoT Hub, Azure Blob Storage 등 다양한 데이터 소스를 지원합니다. 데이터 익스플로러를 사용하여 로그를 분석하고, 애플리케이션을 모니터링하며, 데이터에 대한 인사이트를 얻을 수 있습니다. Azure Synapse Analytics, Azure Machine Learning 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "분석"
+    },
+    {
+        "id": "35",
+        "title": "Azure 데이터 카탈로그",
+        "content": "Azure 데이터 카탈로그는 데이터 소스를 검색, 이해 및 사용할 수 있는 완전 관리형 메타데이터 서비스입니다. 데이터 자산 등록, 메타데이터 검색, 데이터 계보 등의 기능을 제공합니다. Azure SQL Database, Azure Blob Storage, 온프레미스 파일 시스템 등 다양한 데이터 소스를 지원합니다. 데이터 카탈로그를 사용하여 통합된 데이터 카탈로그를 구축하고, 데이터 거버넌스를 개선하며, 데이터 검색 프로세스를 간소화할 수 있습니다. Azure Synapse Analytics, Azure Data Factory 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "분석"
+    },
+    {
+        "id": "36",
+        "title": "Azure 데이터 레이크 스토리지",
+        "content": "Azure 데이터 레이크 스토리지는 빅데이터 분석을 위한 확장 가능하고 안전하며 비용 효율적인 스토리지 서비스입니다. 무제한 스토리지, 계층적 네임스페이스, 세분화된 액세스 제어 등의 기능을 제공합니다. 구조화된 데이터, 반구조화된 데이터, 비정형 데이터 등 다양한 데이터 유형을 지원합니다. 데이터 레이크 스토리지를 사용하여 데이터를 저장 및 분석하고, 데이터 레이크를 구축하며, 다른 Azure 서비스와 통합할 수 있습니다. Azure Databricks, Azure Machine Learning 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "스토리지"
+    },
+    {
+        "id": "37",
+        "title": "Azure 데이터 레이크 분석",
+        "content": "Azure 데이터 레이크 분석은 빅데이터를 처리하고 분석할 수 있는 온디맨드 클라우드 기반 분석 서비스입니다. 작업 스케줄링, 병렬 처리, 내장 분석 함수 등의 기능을 제공합니다. Azure Data Lake Storage, Azure Blob Storage, Azure SQL Database 등 다양한 데이터 소스를 지원합니다. 데이터 레이크 분석을 사용하여 U-SQL, R, Python 스크립트를 실행하고, 고급 분석을 수행하며, 데이터에 대한 인사이트를 얻을 수 있습니다. Azure Machine Learning, Azure Data Factory 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "분석"
+    },
+    {
+        "id": "38",
+        "title": "Azure 바스천",
+        "content": "Azure 바스천은 가상 머신에 원격 액세스를 제공하는 완전 관리형, 안전하고 확장 가능한 서비스입니다. 프라이빗 연결, 안전한 RDP/SSH 세션, 브라우저 기반 액세스 등의 기능을 제공합니다. Azure Virtual Machines, Azure Virtual Network, Azure Active Directory 등 다양한 Azure 서비스를 지원합니다. Azure 바스천을 사용하여 가상 머신에 안전하게 액세스하고, 공격 표면을 최소화하며, 인프라의 보안을 향상시킬 수 있습니다. Azure Monitor, Azure Security Center 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "보안"
+    },
+    {
+        "id": "39",
+        "title": "Azure 미디어 서비스",
+        "content": "Azure 미디어 서비스는 비디오 애플리케이션을 구축, 배포 및 확장할 수 있는 클라우드 기반 미디어 처리 및 전송 플랫폼입니다. 인코딩, 스트리밍, 콘텐츠 보호, 비디오 인덱싱 등의 기능을 제공합니다. MP4, MPEG-DASH, HLS 등 다양한 입력 및 출력 형식을 지원합니다. 미디어 서비스를 사용하여 라이브 및 주문형 비디오를 제공하고, 주문형 비디오 플랫폼을 구축하며, 비디오 콘텐츠를 분석할 수 있습니다. Azure Content Delivery Network, Azure Storage 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "미디어"
+    },
+    {
+        "id": "40",
+        "title": "Azure 코그니티브 검색",
+        "content": "Azure 코그니티브 검색은 애플리케이션에 풍부한 검색 기능을 구축할 수 있는 완전 관리형 검색 서비스입니다. 전체 텍스트 검색, 계층형 탐색, 필터 등의 기능을 제공합니다. Azure SQL Database, Azure Blob Storage, Azure Cosmos DB 등 다양한 데이터 소스를 지원합니다. 코그니티브 검색을 사용하여 데이터를 인덱싱하고, 사용자 정의 점수 프로필을 생성하며, 다른 Azure 서비스와 통합할 수 있습니다. Azure Cognitive Services, Azure Machine Learning 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "AI + 머신러닝"
+    },
+    {
+        "id": "41",
+        "title": "Azure 키 볼트",
+        "content": "Azure 키 볼트는 비밀, 키, 인증서를 안전하게 저장하고 관리할 수 있는 클라우드 기반 서비스입니다. 액세스 제어, 감사, 안전한 저장 등의 기능을 제공합니다. 연결 문자열, 비밀번호, API 키 등 다양한 유형의 비밀을 지원합니다. 키 볼트를 사용하여 애플리케이션을 보호하고, 민감한 데이터를 보호하며, 암호화 키를 관리할 수 있습니다. Azure Virtual Machines, Azure App Service 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "보안"
+    },
+    {
+        "id": "42",
+        "title": "Azure 모니터",
+        "content": "Azure 모니터는 애플리케이션 및 인프라에서 수집한 원격 분석 데이터를 분석하고 조치할 수 있는 포괄적인 전체 스택 모니터링 서비스입니다. 로그 분석, 메트릭, 경고, 대시보드 등의 기능을 제공합니다. Azure 리소스, 사용자 지정 애플리케이션, 운영 체제 등 다양한 데이터 소스를 지원합니다. Azure 모니터를 사용하여 문제를 감지하고 진단하며, 성능을 최적화하고, 리소스의 가용성을 보장할 수 있습니다. Azure Log Analytics, Azure Application Insights 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "관리 + 거버넌스"
+    },
+    {
+        "id": "43",
+        "title": "Azure DDoS 보호",
+        "content": "Azure DDoS 보호는 분산 서비스 거부(DDoS) 공격으로부터 애플리케이션 및 리소스를 보호할 수 있는 클라우드 기반 서비스입니다. 자동 공격 완화, 트래픽 프로파일링, 공격 분석 등의 기능을 제공합니다. Azure Virtual Machines, Azure App Service, Azure Load Balancer 등 다양한 Azure 서비스를 지원합니다. Azure DDoS 보호를 사용하여 인프라를 보호하고, 애플리케이션의 가용성을 보장하며, 비즈니스 연속성을 유지할 수 있습니다. Azure Security Center, Azure Monitor 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "보안"
+    },
+    {
+        "id": "44",
+        "title": "Azure 애플리케이션 게이트웨이",
+        "content": "Azure 애플리케이션 게이트웨이는 일반적인 웹 취약점 및 익스플로잇으로부터 웹 애플리케이션을 보호할 수 있는 완전 관리형, 확장 가능하고 안전한 웹 애플리케이션 방화벽(WAF)입니다. SSL 오프로딩, URL 기반 라우팅, 사용자 지정 상태 검사 등의 기능을 제공합니다. Azure Virtual Machines, Azure App Service, Azure Kubernetes Service 등 다양한 Azure 서비스를 지원합니다. 애플리케이션 게이트웨이를 사용하여 애플리케이션을 보호하고, 성능을 향상시키며, 고가용성을 보장할 수 있습니다. Azure Security Center, Azure Monitor 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "네트워킹"
+    },
+    {
+        "id": "45",
+        "title": "Azure VPN 게이트웨이",
+        "content": "Azure VPN 게이트웨이는 온프레미스 네트워크와 Azure Virtual Networks 간의 암호화된 연결을 설정할 수 있는 안전하고 확장 가능하며 고성능의 가상 네트워크 게이트웨이입니다. 사이트 간 VPN, 지점 간 VPN, 익스프레스라우트 등의 기능을 제공합니다. IKEv2, SSTP, OpenVPN 등 다양한 VPN 프로토콜을 지원합니다. Azure VPN 게이트웨이를 사용하여 하이브리드 애플리케이션을 구축하고, 온프레미스 네트워크를 클라우드로 확장하며, 전송 중인 데이터를 보호할 수 있습니다. Azure Virtual Network, Azure Network Security Groups 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "네트워킹"
+    },
+    {
+        "id": "46",
+        "title": "Azure HDInsight",
+        "content": "Azure HDInsight는 빅데이터 워크로드를 처리할 수 있는 완전 관리형 오픈 소스 분석 서비스입니다. Apache Hadoop, Apache Spark, Apache Kafka, Apache HBase 등 인기 있는 오픈 소스 프레임워크를 제공합니다. Azure Blob Storage, Azure Data Lake Storage, Azure Cosmos DB 등 다양한 데이터 소스를 지원합니다. HDInsight를 사용하여 대량의 데이터를 분석 및 처리하고, 실시간 분석 솔루션을 구축하며, 머신러닝 모델을 개발할 수 있습니다. Azure Synapse Analytics, Azure Machine Learning 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "분석"
+    },
+    {
+        "id": "47",
+        "title": "Azure 파워 BI 임베디드",
+        "content": "Azure 파워 BI 임베디드는 애플리케이션에 대화형 시각화 및 보고서를 임베드할 수 있는 클라우드 기반 분석 서비스입니다. 데이터 탐색, 사용자 정의 시각화, 실시간 데이터 새로 고침 등의 기능을 제공합니다. Azure SQL Database, Azure Blob Storage, 온프레미스 데이터베이스 등 다양한 데이터 소스를 지원합니다. 파워 BI 임베디드를 사용하여 데이터 기반 애플리케이션을 구축하고, 의사 결정을 개선하며, 사용자 경험을 향상시킬 수 있습니다. Azure Synapse Analytics, Azure Machine Learning 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "분석"
+    },
+    {
+        "id": "48",
+        "title": "Azure 관리 디스크",
+        "content": "Azure 관리 디스크는 Azure Virtual Machines용 확장 가능하고 내구성 있으며 고성능의 블록 스토리지 서비스입니다. 자동 확장, 내장 암호화, Azure Backup과의 통합 등의 기능을 제공합니다. Premium SSD, Standard SSD, Standard HDD 등 다양한 디스크 유형을 지원합니다. 관리 디스크를 사용하여 데이터를 저장 및 관리하고, 애플리케이션의 성능을 향상시키며, 고가용성을 보장할 수 있습니다. Azure Virtual Machines, Azure Site Recovery 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "스토리지"
+    },
+    {
+        "id": "49",
+        "title": "Azure 캐시 포 레디스",
+        "content": "Azure 캐시 포 레디스는 고성능 및 확장 가능한 애플리케이션을 구축할 수 있는 완전 관리형 인메모리 데이터 저장소입니다. 데이터 지속성, 고가용성, 자동 확장 등의 기능을 제공합니다. 문자열, 리스트, 셋, 해시 등 다양한 데이터 구조를 지원합니다. Azure 캐시 포 레디스를 사용하여 애플리케이션의 성능을 향상시키고, 데이터베이스의 부하를 줄이며, 데이터 액세스 지연 시간을 단축할 수 있습니다. Azure App Service, Azure Kubernetes Service 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "데이터베이스"
+    },
+    {
+        "id": "50",
+        "title": "Azure 블롭 스토리지",
+        "content": "Azure 블롭 스토리지는 비정형 데이터를 위한 확장 가능하고 내구성 있으며 고성능의 객체 스토리지 서비스입니다. 데이터 중복, 지리적 복제, 세분화된 액세스 제어 등의 기능을 제공합니다. 이미지, 문서, 비디오 등 다양한 데이터 유형을 지원합니다. 블롭 스토리지를 사용하여 데이터를 저장 및 관리하고, 데이터 레이크를 구축하며, 빅데이터 분석 솔루션을 개발할 수 있습니다. Azure CDN, Azure Functions, Azure Machine Learning 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "스토리지"
+    },
+    {
+        "id": "51",
+        "title": "Azure 파일 스토리지",
+        "content": "Azure 파일 스토리지는 SMB 프로토콜을 통해 파일을 저장하고 액세스할 수 있는 완전 관리형, 확장 가능하고 안전한 파일 공유 서비스입니다. 스냅샷, 공유 액세스 서명, Azure Backup과의 통합 등의 기능을 제공합니다. Windows, Linux, macOS 등 다양한 플랫폼을 지원합니다. 파일 스토리지를 사용하여 파일 공유 솔루션을 구축하고, 애플리케이션을 클라우드로 리프트 앤 시프트하며, 데이터 관리를 간소화할 수 있습니다. Azure Virtual Machines, Azure Kubernetes Service 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "스토리지"
+    },
+    {
+        "id": "52",
+        "title": "Azure 테이블 스토리지",
+        "content": "Azure 테이블 스토리지는 대량의 구조화된 비관계형 데이터를 저장하고 쿼리할 수 있는 완전 관리형 NoSQL 데이터 저장소입니다. 자동 확장, 스키마리스 디자인, RESTful API 등의 기능을 제공합니다. 문자열, 숫자, 부울 등 다양한 데이터 유형을 지원합니다. 테이블 스토리지를 사용하여 데이터를 저장 및 관리하고, 확장 가능한 애플리케이션을 구축하며, 스토리지 비용을 절감할 수 있습니다. Azure Functions, Azure Cosmos DB 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "스토리지"
+    },
+    {
+        "id": "53",
+        "title": "Azure 큐 스토리지",
+        "content": "Azure 큐 스토리지는 애플리케이션을 분리하고 비동기 솔루션을 구축할 수 있는 완전 관리형, 확장 가능하고 내구성 있는 메시지 큐잉 서비스입니다. 최소 1회 전달, 메시지 수명, RESTful API 등의 기능을 제공합니다. C#, Java, Python 등 다양한 프로그래밍 언어를 지원합니다. 큐 스토리지를 사용하여 분산 애플리케이션을 구축하고, 데이터베이스의 부하를 줄이며, 대량의 메시지를 처리 및 저장할 수 있습니다. Azure Functions, Azure Logic Apps 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "스토리지"
+    },
+    {
+        "id": "54",
+        "title": "Azure 데이터 박스",
+        "content": "Azure 데이터 박스는 데이터를 Azure로 안전하고 효율적으로 전송할 수 있는 데이터 전송 장치 제품군입니다. 오프라인 데이터 전송, 데이터 암호화, 연속성 보장 등의 기능을 제공합니다. 파일, 데이터베이스, 가상 머신 등 다양한 데이터 유형을 지원합니다. Azure 데이터 박스를 사용하여 데이터를 마이그레이션하고, 데이터 레이크를 구축하며, 데이터 백업 및 아카이빙을 수행할 수 있습니다. Azure Storage, Azure Synapse Analytics 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "스토리지"
+    },
+    {
+        "id": "55",
+        "title": "Azure 임포트/익스포트",
+        "content": "Azure 임포트/익스포트는 데이터를 Azure Storage로 안전하고 효율적으로 전송할 수 있는 데이터 전송 솔루션입니다. 오프라인 데이터 전송, 데이터 암호화, 연속성 보장 등의 기능을 제공합니다. 파일, 데이터베이스, 가상 머신 등 다양한 데이터 유형을 지원합니다. Azure 임포트/익스포트를 사용하여 데이터를 마이그레이션하고, 데이터 레이크를 구축하며, 데이터 백업 및 아카이빙을 수행할 수 있습니다. Azure Storage, Azure Data Box 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "스토리지"
+    },
+    {
+        "id": "56",
+        "title": "Azure 프론트 도어",
+        "content": "Azure 프론트 도어는 웹 애플리케이션을 빠르게 제공할 수 있는 글로벌, 확장 가능하고 안전한 진입점입니다. 부하 분산, SSL 오프로딩, 웹 애플리케이션 방화벽(WAF) 등의 기능을 제공합니다. Azure App Service, Azure Storage, Azure Virtual Machines 등 다양한 Azure 서비스를 지원합니다. Azure 프론트 도어를 사용하여 고가용성 및 응답성이 높은 애플리케이션을 구축하고, 사용자 경험을 최적화하며, 인프라의 보안을 향상시킬 수 있습니다. Azure CDN, Azure Traffic Manager 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "네트워킹"
+    },
+    {
+        "id": "57",
+        "title": "Azure 서비스 패브릭",
+        "content": "Azure 서비스 패브릭은 확장 가능하고 신뢰할 수 있는 마이크로서비스 및 컨테이너 기반 애플리케이션을 구축, 배포 및 관리할 수 있는 분산 시스템 플랫폼입니다. 상태 저장 서비스, 내결함성, 롤링 업그레이드 등의 기능을 제공합니다. C#, Java, Node.js 등 다양한 프로그래밍 언어를 지원합니다. Azure 서비스 패브릭을 사용하여 클라우드 네이티브 애플리케이션을 구축하고, 기존 애플리케이션을 현대화하며, 고가용성과 확장성을 보장할 수 있습니다. Azure Kubernetes Service, Azure DevOps 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "컴퓨트"
+    },
+    {
+        "id": "58",
+        "title": "Azure 예약 VM 인스턴스",
+        "content": "Azure 예약 VM 인스턴스(RI)는 Azure에서 컴퓨팅 용량을 예약할 수 있는 유연하고 비용 효율적인 방법입니다. 1년 또는 3년 기간을 약정하여 종량제 가격 대비 가상 머신 비용을 크게 절감할 수 있습니다. 인스턴스 크기 유연성, 지역 범위 지정, 간편한 교환 등의 기능을 제공합니다. Azure 예약 VM 인스턴스를 사용하여 비용을 최적화하고, 용량 가용성을 보장하며, 예산 계획을 간소화할 수 있습니다. Azure Cost Management, Azure Virtual Machines 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "관리 + 거버넌스"
+    },
+    {
+        "id": "59",
+        "title": "Azure 정책",
+        "content": "Azure 정책은 Azure 리소스 전반에 걸쳐 정책을 정의, 적용 및 감사할 수 있는 거버넌스 서비스입니다. 정책 할당, 정책 평가, 준수 보고서 등의 기능을 제공합니다. Azure Virtual Machines, Azure Storage, Azure App Service 등 다양한 리소스 유형을 지원합니다. Azure 정책을 사용하여 조직의 표준을 준수하고, 비준수 리소스를 방지하며, 자동으로 수정할 수 있습니다. Azure Monitor, Azure Security Center 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "관리 + 거버넌스"
+    },
+    {
+        "id": "60",
+        "title": "Azure 보안 센터",
+        "content": "Azure 보안 센터는 Azure 리소스 및 온프레미스 인프라 전반에 걸쳐 워크로드를 보호하고 보안 상태를 개선할 수 있는 통합 보안 관리 서비스입니다. 지속적인 보안 평가, 위협 보호, 보안 권장 사항 등의 기능을 제공합니다. Windows, Linux, Kubernetes 등 다양한 플랫폼을 지원합니다. Azure 보안 센터를 사용하여 위협을 감지하고 수정하며, 보안 정책을 관리하고, 업계 규정을 준수할 수 있습니다. Azure Monitor, Azure Log Analytics 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "보안"
+    },
+    {
+        "id": "61",
+        "title": "Azure 프라이빗 DNS",
+        "content": "Azure 프라이빗 DNS는 가상 네트워크에서 도메인 이름을 관리하고 해석할 수 있는 완전 관리형 프라이빗 도메인 이름 시스템(DNS) 서비스입니다. 사용자 지정 도메인, DNS 기반 부하 분산, 프라이빗 액세스 등의 기능을 제공합니다. Azure Virtual Machines, Azure App Service, Azure Kubernetes Service 등 다양한 Azure 서비스를 지원합니다. Azure 프라이빗 DNS를 사용하여 격리된 환경을 구축하고, 네트워크 관리를 간소화하며, DNS 트래픽의 보안을 보장할 수 있습니다. Azure Virtual Network, Azure Traffic Manager 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "네트워킹"
+    },
+    {
+        "id": "62",
+        "title": "Azure 데브테스트 랩",
+        "content": "Azure 데브테스트 랩은 Azure에서 개발 및 테스트 환경을 생성, 관리 및 공유할 수 있는 완전 관리형 서비스입니다. 사용자 지정 템플릿, 비용 관리, Azure DevOps와의 통합 등의 기능을 제공합니다. Windows, Linux, Kubernetes 등 다양한 플랫폼을 지원합니다. Azure 데브테스트 랩을 사용하여 애플리케이션 개발 수명 주기를 개선하고, 비용을 절감하며, 환경의 일관성을 보장할 수 있습니다. Azure Virtual Machines, Azure App Service 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "개발자 도구"
+    },
+    {
+        "id": "63",
+        "title": "Azure 펑션",
+        "content": "Azure 펑션은 인프라를 관리하지 않고 이벤트 기반 코드를 실행할 수 있는 서버리스 컴퓨팅 서비스입니다. 자동 확장, 트리거, 바인딩 기능을 제공합니다. C#, Java, Python 등 다양한 언어를 지원하며, 마이크로서비스 구축, Azure 서비스와의 통합, 데이터 처리 및 변환에 활용할 수 있습니다. Azure Event Hubs, Azure Storage, Azure Cosmos DB 등과 연동됩니다.",
+        "category": "컴퓨트"
+    },
+    {
+        "id": "64",
+        "title": "Azure 시그널R 서비스",
+        "content": "Azure 시그널R 서비스는 실시간 웹 애플리케이션을 구축하고 확장할 수 있는 완전 관리형 실시간 메시징 서비스입니다. 자동 확장, WebSocket 지원, 서버리스 통합 등의 기능을 제공합니다. C#, JavaScript, Java 등 다양한 프로그래밍 언어를 지원합니다. Azure 시그널R 서비스를 사용하여 채팅 애플리케이션, 실시간 대시보드, 협업 도구를 구축할 수 있습니다. Azure Functions, Azure App Service 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "웹"
+    },
+    {
+        "id": "65",
+        "title": "Azure 블록체인 서비스",
+        "content": "Azure 블록체인 서비스는 블록체인 애플리케이션을 구축하고 관리할 수 있는 완전 관리형 멀티 레저 블록체인 플랫폼입니다. 컨소시엄 관리, 프라이빗 트랜잭션, Azure Logic Apps와의 통합 등의 기능을 제공합니다. Ethereum, Hyperledger Fabric 등 다양한 블록체인 프로토콜을 지원합니다. Azure 블록체인 서비스를 사용하여 안전하고 규정을 준수하는 애플리케이션을 구축하고, 비즈니스 프로세스를 간소화하며, 신뢰와 투명성을 향상시킬 수 있습니다. Azure Active Directory, Azure Key Vault 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "블록체인"
+    },
+    {
+        "id": "66",
+        "title": "Azure 데이터베이스 포 MySQL",
+        "content": "Azure 데이터베이스 포 MySQL은 Azure에서 MySQL 애플리케이션을 구축하고 관리할 수 있는 완전 관리형, 확장 가능하고 안전한 관계형 데이터베이스 서비스입니다. 자동 백업, 모니터링, 고가용성 등의 기능을 제공합니다. JSON, 공간, 전체 텍스트 등 다양한 데이터 유형을 지원합니다. Azure 데이터베이스 포 MySQL을 사용하여 기존 애플리케이션을 마이그레이션하고, 새로운 애플리케이션을 구축하며, 데이터의 성능과 보안을 보장할 수 있습니다. Azure App Service, Azure Data Factory 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "데이터베이스"
+    },
+    {
+        "id": "67",
+        "title": "Azure 데이터베이스 포 PostgreSQL",
+        "content": "Azure 데이터베이스 포 PostgreSQL은 Azure에서 PostgreSQL 애플리케이션을 구축하고 관리할 수 있는 완전 관리형, 확장 가능하고 안전한 관계형 데이터베이스 서비스입니다. 자동 백업, 모니터링, 고가용성 등의 기능을 제공합니다. JSON, 공간, 전체 텍스트 등 다양한 데이터 유형을 지원합니다. Azure 데이터베이스 포 PostgreSQL을 사용하여 기존 애플리케이션을 마이그레이션하고, 새로운 애플리케이션을 구축하며, 데이터의 성능과 보안을 보장할 수 있습니다. Azure App Service, Azure Data Factory 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "데이터베이스"
+    },
+    {
+        "id": "68",
+        "title": "Azure 데이터베이스 포 MariaDB",
+        "content": "Azure 데이터베이스 포 MariaDB는 Azure에서 MariaDB 애플리케이션을 구축하고 관리할 수 있는 완전 관리형, 확장 가능하고 안전한 관계형 데이터베이스 서비스입니다. 자동 백업, 모니터링, 고가용성 등의 기능을 제공합니다. JSON, 공간, 전체 텍스트 등 다양한 데이터 유형을 지원합니다. Azure 데이터베이스 포 MariaDB를 사용하여 기존 애플리케이션을 마이그레이션하고, 새로운 애플리케이션을 구축하며, 데이터의 성능과 보안을 보장할 수 있습니다. Azure App Service, Azure Data Factory 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "데이터베이스"
+    },
+    {
+        "id": "69",
+        "title": "Azure SQL 관리형 인스턴스",
+        "content": "Azure SQL 관리형 인스턴스는 Azure에서 호스팅되는 완전 관리형, 확장 가능하고 안전한 SQL Server 인스턴스입니다. 자동 백업, 모니터링, 고가용성 등의 기능을 제공합니다. JSON, 공간, 전체 텍스트 등 다양한 데이터 유형을 지원합니다. Azure SQL 관리형 인스턴스를 사용하여 기존 애플리케이션을 마이그레이션하고, 새로운 애플리케이션을 구축하며, 데이터의 성능과 보안을 보장할 수 있습니다. Azure App Service, Azure Data Factory 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "데이터베이스"
+    },
+    {
+        "id": "70",
+        "title": "Azure 코스모스 DB",
+        "content": "Azure 코스모스 DB는 전 세계적으로 분산되고 다중 모델을 지원하는 완전 관리형 데이터베이스 서비스입니다. 글로벌 분산, 자동 및 즉각적 확장, 낮은 지연 시간, 높은 가용성 및 일관성을 보장합니다. MongoDB, Cassandra, Gremlin, Azure Table Storage 등 인기 있는 NoSQL API를 지원합니다. 복잡한 구성이나 용량 계획 없이 글로벌 분산 애플리케이션을 쉽게 구축할 수 있습니다. 저장된 데이터는 자동으로 인덱싱되어 SQL, JavaScript 등 다양한 쿼리 언어로 조회할 수 있습니다.",
+        "category": "데이터베이스"
+    },
+    {
+        "id": "71",
+        "title": "Azure SQL 데이터 웨어하우스",
+        "content": "Azure SQL 데이터 웨어하우스는 구조화된 데이터 및 반구조화된 데이터를 저장하고 분석할 수 있는 완전 관리형 페타바이트 규모의 클라우드 데이터 웨어하우스 서비스입니다. 자동 확장, 데이터 이동, Azure Machine Learning과의 통합 등의 기능을 제공합니다. Azure Blob Storage, Azure Data Lake Storage, Azure SQL Database 등 다양한 데이터 소스를 지원합니다. Azure SQL 데이터 웨어하우스를 사용하여 데이터 레이크를 구축하고, 빅데이터 분석 솔루션을 개발하며, 데이터의 성능과 보안을 보장할 수 있습니다. Azure Synapse Analytics, Azure Data Factory 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "데이터베이스"
+    },
+    {
+        "id": "72",
+        "title": "Azure 애플리케이션 인사이트",
+        "content": "Azure 애플리케이션 인사이트는 애플리케이션 및 인프라를 모니터링, 진단 및 문제 해결할 수 있는 애플리케이션 성능 관리 서비스입니다. 실시간 원격 분석, 종속성 매핑, 실시간 메트릭 등의 기능을 제공합니다. .NET, Java, Node.js, Python 등 다양한 플랫폼을 지원합니다. Azure 애플리케이션 인사이트를 사용하여 문제를 감지하고 진단하며, 성능을 최적화하고, 애플리케이션의 가용성을 보장할 수 있습니다. Azure Monitor, Azure Log Analytics 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "관리 + 거버넌스"
+    },
+    {
+        "id": "73",
+        "title": "Azure 로그 분석",
+        "content": "Azure 로그 분석은 다양한 소스(Azure 리소스, 사용자 지정 애플리케이션, 운영 체제)에서 로그 데이터를 수집, 저장 및 분석할 수 있는 로그 관리 및 분석 서비스입니다. 고급 쿼리, 데이터 시각화, Azure Monitor와의 통합 등의 기능을 제공합니다. 성능 카운터, 이벤트 로그, 사용자 지정 로그 등 다양한 데이터 유형을 지원합니다. Azure 로그 분석을 사용하여 문제를 감지하고 진단하며, 성능을 최적화하고, 인프라의 보안을 보장할 수 있습니다. Azure Security Center, Azure Application Insights 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "관리 + 거버넌스"
+    },
+    {
+        "id": "74",
+        "title": "Azure IoT 센트럴",
+        "content": "Azure IoT 센트럴은 IoT 애플리케이션을 구축, 관리 및 확장할 수 있는 완전 관리형 글로벌 IoT 소프트웨어 서비스(SaaS) 솔루션입니다. 장치 관리, 데이터 시각화, 애플리케이션 템플릿 등의 기능을 제공합니다. Azure IoT Hub, Azure Event Hubs, Azure Blob Storage 등 다양한 데이터 소스를 지원합니다. Azure IoT 센트럴을 사용하여 연결된 솔루션을 구축하고, 운영을 최적화하며, 의사 결정을 개선할 수 있습니다. Azure Time Series Insights, Azure Machine Learning 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "사물인터넷"
+    },
+    {
+        "id": "75",
+        "title": "Azure 스피어",
+        "content": "Azure 스피어는 보안이 강화된 고수준 애플리케이션 플랫폼, 맞춤형 Linux 기반 운영 체제, 클라우드 기반 보안 서비스를 포함하는 포괄적인 IoT 보안 솔루션입니다. 자동 업데이트, 장치 증명, 오류 보고 등의 기능을 제공합니다. 마이크로컨트롤러 및 개발 보드 등 다양한 하드웨어 플랫폼을 지원합니다. Azure 스피어를 사용하여 안전하고 규정을 준수하는 IoT 장치를 구축하고, 지적 재산을 보호하며, IoT 생태계의 보안을 보장할 수 있습니다. Azure IoT Hub, Azure IoT Central 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "사물인터넷"
+    },
+    {
+        "id": "76",
+        "title": "Azure IoT 엣지",
+        "content": "Azure IoT 엣지는 클라우드 인텔리전스를 IoT 장치에서 직접 실행할 수 있는 완전 관리형 서비스입니다. 자동 확장, 장치 관리, Azure Machine Learning과의 통합 등의 기능을 제공합니다. C#, Java, Python 등 다양한 프로그래밍 언어를 지원합니다. Azure IoT 엣지를 사용하여 엣지 컴퓨팅 솔루션을 구축하고, 운영을 최적화하며, 의사 결정을 개선할 수 있습니다. Azure IoT Hub, Azure Functions 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "사물인터넷"
+    },
+    {
+        "id": "77",
+        "title": "Azure 마이그레이트",
+        "content": "Azure 마이그레이트는 온프레미스 워크로드를 Azure로 마이그레이션할 수 있는 클라우드 마이그레이션 서비스입니다. VM 호환성 평가, 성능 기반 크기 조정, 비용 추정 등의 기능을 제공합니다. Windows, Linux, VMware 등 다양한 플랫폼을 지원합니다. Azure 마이그레이트를 사용하여 마이그레이션을 계획하고, 워크로드의 호환성을 보장하며, 비용을 최적화할 수 있습니다. Azure Site Recovery, Azure Database Migration Service 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "관리 + 거버넌스"
+    },
+    {
+        "id": "78",
+        "title": "Azure 데이터베이스 마이그레이션 서비스",
+        "content": "Azure 데이터베이스 마이그레이션 서비스는 최소한의 다운타임으로 데이터베이스를 Azure로 마이그레이션할 수 있는 완전 관리형 엔드 투 엔드 마이그레이션 서비스입니다. SQL Server, MySQL, PostgreSQL, Azure SQL Database 등 다양한 소스 및 대상 플랫폼을 지원합니다. 스키마 변환, 데이터 마이그레이션, 성능 모니터링 등의 기능을 제공합니다. Azure 데이터베이스 마이그레이션 서비스를 사용하여 데이터베이스를 마이그레이션하고, 워크로드의 호환성을 보장하며, 마이그레이션 위험을 최소화할 수 있습니다. Azure Migrate, Azure SQL Managed Instance 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "데이터베이스"
+    },
+    {
+        "id": "79",
+        "title": "Azure 블루프린트",
+        "content": "Azure 블루프린트는 Azure 환경을 일관되고 반복 가능한 방식으로 정의, 배포 및 업데이트할 수 있는 거버넌스 서비스입니다. 환경 템플릿, 정책 할당, RBAC 구성 등의 기능을 제공합니다. Azure Virtual Machines, Azure Storage, Azure App Service 등 다양한 Azure 서비스를 지원합니다. Azure 블루프린트를 사용하여 조직의 표준을 준수하고, 환경 생성을 자동화하며, 인프라 관리를 간소화할 수 있습니다. Azure Policy, Azure Resource Manager 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "관리 + 거버넌스"
+    },
+    {
+        "id": "80",
+        "title": "Azure 쿠버네티스 서비스(AKS)",
+        "content": "Azure 쿠버네티스 서비스(AKS)는 쿠버네티스를 사용하여 컨테이너화된 애플리케이션을 배포, 확장 및 관리할 수 있는 완전 관리형 컨테이너 오케스트레이션 플랫폼입니다. 자동 확장, 롤링 업데이트, Azure Active Directory와의 통합 등의 기능을 제공합니다. Docker, containerd 등 다양한 컨테이너 런타임을 지원합니다. Azure 쿠버네티스 서비스를 사용하여 마이크로서비스를 구축하고, 기존 애플리케이션을 현대화하며, 고가용성과 확장성을 보장할 수 있습니다. Azure Container Registry, Azure Monitor 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "컴퓨트"
+    },
+    {
+        "id": "81",
+        "title": "Azure 컨테이너 인스턴스",
+        "content": "Azure 컨테이너 인스턴스(ACI)는 인프라를 관리하지 않고 Azure에서 컨테이너화된 애플리케이션을 실행하고 확장할 수 있는 서버리스 컨테이너 런타임입니다. 자동 확장, 사용자 지정 도메인, Azure Logic Apps와의 통합 등의 기능을 제공합니다. Docker, containerd 등 다양한 컨테이너 런타임을 지원합니다. Azure 컨테이너 인스턴스를 사용하여 마이크로서비스를 구축하고, 기존 애플리케이션을 현대화하며, 고가용성과 확장성을 보장할 수 있습니다. Azure Kubernetes Service, Azure Functions 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "컴퓨트"
+    },
+    {
+        "id": "82",
+        "title": "Azure 컨테이너 레지스트리",
+        "content": "Azure 컨테이너 레지스트리는 Azure에서 컨테이너 이미지를 저장하고 관리할 수 있는 완전 관리형 프라이빗 Docker 레지스트리 서비스입니다. 지리적 복제, 웹훅, Azure Active Directory와의 통합 등의 기능을 제공합니다. Docker, Open Container Initiative(OCI) 등 다양한 컨테이너 형식을 지원합니다. Azure 컨테이너 레지스트리를 사용하여 컨테이너화된 애플리케이션을 구축 및 배포하고, 이미지의 보안을 보장하며, 컨테이너 수명 주기를 자동화할 수 있습니다. Azure Kubernetes Service, Azure DevOps 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "컨테이너"
+    },
+    {
+        "id": "83",
+        "title": "Azure 데이터브릭스",
+        "content": "Azure 데이터브릭스는 Azure 클라우드에 최적화된 Apache Spark 기반 분석 플랫폼입니다. 데이터 과학자, 엔지니어, 비즈니스 사용자가 빅데이터를 처리, 분석 및 시각화할 수 있는 협업 작업 공간을 제공합니다. Python, Scala, R, SQL 등 다양한 프로그래밍 언어를 지원합니다. Azure Blob Storage, Azure Data Lake Storage, Azure Cosmos DB와의 통합이 내장되어 있습니다. 데이터브릭스를 사용하여 머신러닝 모델을 훈련 및 배포하고, Azure Machine Learning과 통합할 수 있습니다.",
+        "category": "분석"
+    },
+    {
+        "id": "84",
+        "title": "Azure 이벤트 그리드",
+        "content": "Azure 이벤트 그리드는 이벤트 기반 및 서버리스 애플리케이션을 구축할 수 있는 완전 관리형 이벤트 라우팅 서비스입니다. 이벤트 필터링, 사용자 정의 이벤트 주제, Azure Functions와의 통합 등의 기능을 제공합니다. Azure Blob Storage, Azure Event Hubs, 사용자 지정 애플리케이션 등 다양한 이벤트 소스를 지원합니다. Azure 이벤트 그리드를 사용하여 반응형 애플리케이션을 구축하고, 다른 Azure 서비스와 통합하며, 이벤트를 대규모로 처리 및 라우팅할 수 있습니다. Azure Logic Apps, Azure Service Bus 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "통합"
+    },
+    {
+        "id": "85",
+        "title": "Azure 비용 관리",
+        "content": "Azure 비용 관리는 Azure 비용을 분석, 관리 및 최적화할 수 있는 재무 관리 서비스입니다. 비용 분석, 예산 책정, 경고 등의 기능을 제공합니다. Azure Virtual Machines, Azure Storage, Azure App Service 등 다양한 Azure 서비스를 지원합니다. Azure 비용 관리를 사용하여 지출에 대한 인사이트를 얻고, 리소스의 효율적인 사용을 보장하며, 클라우드 비용을 제어할 수 있습니다. Azure Monitor, Azure Policy 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "관리 + 거버넌스"
+    },
+    {
+        "id": "86",
+        "title": "Azure 앱 구성",
+        "content": "Azure 앱 구성은 애플리케이션 설정 및 기능 플래그를 중앙에서 관리하고 배포할 수 있는 완전 관리형 구성 서비스입니다. 키-값 저장소, 버전 관리, 액세스 제어 등의 기능을 제공합니다. .NET, Java, Node.js, Python 등 다양한 플랫폼을 지원합니다. Azure 앱 구성을 사용하여 애플리케이션을 구축 및 배포하고, 설정의 일관성을 보장하며, 애플리케이션 수명 주기를 개선할 수 있습니다. Azure App Service, Azure Functions 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "개발자 도구"
+    },
+    {
+        "id": "87",
+        "title": "Azure 정적 웹 앱",
+        "content": "Azure 정적 웹 앱은 정적 프론트엔드 기술 및 서버리스 API를 사용하여 현대적인 웹 애플리케이션을 구축하고 배포할 수 있는 서버리스 호스팅 서비스입니다. 사용자 지정 도메인, SSL 인증서, Azure Functions와의 통합 등의 기능을 제공합니다. React, Angular, Vue.js 등 다양한 프레임워크를 지원합니다. Azure 정적 웹 앱을 사용하여 웹 애플리케이션을 구축 및 배포하고, 높은 성능과 보안을 보장하며, 개발 워크플로를 간소화할 수 있습니다. Azure App Service, Azure CDN 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "웹"
+    },
+    {
+        "id": "88",
+        "title": "Azure 라이트하우스",
+        "content": "Azure 라이트하우스는 고객의 Azure 리소스를 대규모로 관리하고 모니터링할 수 있는 크로스 테넌트 관리 서비스입니다. 위임된 액세스, 중앙 집중식 관리, 다중 테넌트 보고서 등의 기능을 제공합니다. Azure Virtual Machines, Azure Storage, Azure App Service 등 다양한 Azure 서비스를 지원합니다. Azure 라이트하우스를 사용하여 관리형 서비스 제공을 구축하고, 운영 효율성을 개선하며, 고객 환경의 보안 및 규정 준수를 보장할 수 있습니다. Azure Monitor, Azure Policy 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "관리 + 거버넌스"
+    },
+    {
+        "id": "89",
+        "title": "Azure 머신러닝",
+        "content": "Azure 머신러닝은 머신러닝 모델을 대규모로 구축, 훈련 및 배포할 수 있는 완전 관리형 엔드 투 엔드 플랫폼입니다. 자동화된 머신러닝, 데이터 라벨링, 모델 관리 등의 기능을 제공합니다. TensorFlow, PyTorch, Scikit-learn 등 다양한 프레임워크를 지원합니다. Azure 머신러닝을 사용하여 예측 분석 솔루션을 개발하고, 의사 결정을 개선하며, 데이터에 대한 인사이트를 얻을 수 있습니다. Azure Databricks, Azure Synapse Analytics 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "AI + 머신러닝"
+    },
+    {
+        "id": "90",
+        "title": "Azure 코그니티브 서비스",
+        "content": "Azure 코그니티브 서비스는 사전 구축된 모델 및 알고리즘을 사용하여 지능형 애플리케이션을 구축할 수 있는 AI 서비스 및 API 모음입니다. 컴퓨터 비전, 음성 인식, 자연어 처리 등의 기능을 제공합니다. .NET, Java, Node.js, Python 등 다양한 플랫폼을 지원합니다. Azure 코그니티브 서비스를 사용하여 챗봇을 구축하고, 이미지 및 비디오를 분석하며, 텍스트를 처리 및 이해할 수 있습니다. Azure Machine Learning, Azure Cognitive Search 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "AI + 머신러닝"
+    },
+    {
+        "id": "91",
+        "title": "Azure 봇 서비스",
+        "content": "Azure 봇 서비스는 애플리케이션용 지능형 챗봇을 구축, 배포 및 관리할 수 있는 관리형 AI 기반 서비스입니다. 자연어 이해, 멀티 채널 지원, Azure Cognitive Services와의 통합 등의 기능을 제공합니다. .NET, Java, Node.js, Python 등 다양한 플랫폼을 지원합니다. Azure 봇 서비스를 사용하여 대화형 애플리케이션을 구축하고, 사용자 참여를 개선하며, 고객 지원을 자동화할 수 있습니다. Azure App Service, Azure Functions 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "AI + 머신러닝"
+    },
+    {
+        "id": "92",
+        "title": "Azure 배치 AI",
+        "content": "Azure 배치 AI는 머신러닝 모델의 분산 훈련 및 추론 워크로드를 대규모로 실행할 수 있는 완전 관리형 AI 기반 서비스입니다. 자동 확장, 작업 스케줄링, TensorFlow, PyTorch, Caffe 등 인기 있는 딥러닝 프레임워크와의 통합 등의 기능을 제공합니다. .NET, Java, Node.js, Python 등 다양한 플랫폼을 지원합니다. Azure 배치 AI를 사용하여 머신러닝 모델을 훈련 및 배포하고, 의사 결정을 개선하며, 데이터에 대한 인사이트를 얻을 수 있습니다. Azure Machine Learning, Azure Storage 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "AI + 머신러닝"
+    },
+    {
+        "id": "93",
+        "title": "Azure 맵스",
+        "content": "Azure 맵스는 Azure를 사용하여 위치 기반 애플리케이션을 구축할 수 있는 지리 공간 서비스 및 SDK 모음입니다. 지도 렌더링, 지오코딩, 경로 계획, 공간 분석 등의 기능을 제공합니다. 웹, 모바일, IoT 장치 등 다양한 플랫폼을 지원합니다. Azure 맵스를 사용하여 매핑 애플리케이션을 구축하고, 공간 데이터를 시각화 및 분석하며, 의사 결정을 개선할 수 있습니다. Azure IoT Hub, Azure Functions 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "사물인터넷"
+    },
+    {
+        "id": "94",
+        "title": "Azure API for FHIR",
+        "content": "Azure API for FHIR는 Fast Healthcare Interoperability Resources(FHIR) 형식으로 건강 데이터를 저장, 관리 및 교환할 수 있는 완전 관리형 표준 기반 API입니다. 데이터 유효성 검사, 버전 관리, Azure Active Directory와의 통합 등의 기능을 제공합니다. 임상, 이미지, 관리 데이터 등 다양한 데이터 유형을 지원합니다. Azure API for FHIR를 사용하여 헬스케어 애플리케이션을 구축하고, 건강 데이터의 보안 및 규정 준수를 보장하며, 데이터 관리를 간소화할 수 있습니다. Azure Machine Learning, Azure IoT Central 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "헬스케어"
+    },
+    {
+        "id": "95",
+        "title": "Azure HPC 캐시",
+        "content": "Azure HPC 캐시는 온프레미스 또는 Azure에 저장된 대규모 데이터 세트에 액세스하고 관리할 수 있는 완전 관리형 고성능 캐싱 서비스입니다. 자동 확장, 데이터 프리페칭, Azure Blob Storage와의 통합 등의 기능을 제공합니다. NFS, SMB 등 다양한 파일 시스템을 지원합니다. Azure HPC 캐시를 사용하여 고성능 컴퓨팅 애플리케이션을 구축하고, 데이터 액세스를 최적화하며, 워크로드의 성능과 신뢰성을 보장할 수 있습니다. Azure Virtual Machines, Azure Storage 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "스토리지"
+    },
+    {
+        "id": "96",
+        "title": "Azure 퀀텀",
+        "content": "Azure 퀀텀은 Azure를 사용하여 양자 애플리케이션을 구축하고 실행할 수 있는 완전 관리형 양자 컴퓨팅 서비스입니다. 양자 하드웨어, 양자 시뮬레이터, 양자 최적화 알고리즘 등의 기능을 제공합니다. Q#, Python, C# 등 다양한 프로그래밍 언어를 지원합니다. Azure 퀀텀을 사용하여 양자 컴퓨팅을 탐색하고, 양자 알고리즘을 개발하며, 복잡한 최적화 문제를 해결할 수 있습니다. Azure Machine Learning, Azure Functions 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "컴퓨트"
+    },
+    {
+        "id": "97",
+        "title": "Azure 데이터 공유",
+        "content": "Azure 데이터 공유는 Azure를 사용하여 다른 조직과 데이터를 안전하게 공유하고 받을 수 있는 완전 관리형 데이터 공유 서비스입니다. 데이터 스냅샷, 변경 추적, 액세스 제어 등의 기능을 제공합니다. Azure Blob Storage, Azure Data Lake Storage, Azure SQL Database 등 다양한 데이터 소스를 지원합니다. Azure 데이터 공유를 사용하여 파트너와 협업하고, 데이터 거버넌스를 개선하며, 데이터의 보안을 보장할 수 있습니다. Azure Synapse Analytics, Azure Data Factory 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "분석"
+    },
+    {
+        "id": "98",
+        "title": "Azure 스택 허브",
+        "content": "Azure 스택 허브는 온프레미스, 자체 데이터 센터 또는 엣지에서 Azure 서비스를 실행할 수 있는 Azure의 확장입니다. 일관된 API, 하이브리드 애플리케이션 개발, Azure Active Directory와의 통합 등의 기능을 제공합니다. Azure Virtual Machines, Azure Storage, Azure App Service 등 다양한 Azure 서비스를 지원합니다. Azure 스택 허브를 사용하여 하이브리드 애플리케이션을 구축하고, 워크로드의 규정 준수를 보장하며, 인프라 관리를 간소화할 수 있습니다. Azure Monitor, Azure Site Recovery 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "하이브리드"
+    },
+    {
+        "id": "99",
+        "title": "Azure 스택 엣지",
+        "content": "Azure 스택 엣지는 온프레미스 또는 엣지에서 Azure 서비스 및 AI 워크로드를 실행할 수 있는 관리형 엣지 컴퓨팅 어플라이언스입니다. 하드웨어 가속 머신러닝, 로컬 캐싱, Azure IoT Hub와의 통합 등의 기능을 제공합니다. Azure Functions, Azure Machine Learning, Azure Kubernetes Service 등 다양한 Azure 서비스를 지원합니다. Azure 스택 엣지를 사용하여 엣지 컴퓨팅 애플리케이션을 구축하고, 데이터 처리를 최적화하며, 워크로드의 보안 및 규정 준수를 보장할 수 있습니다. Azure Monitor, Azure Stack Hub 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "하이브리드"
+    },
+    {
+        "id": "100",
+        "title": "Azure 액티브 디렉터리",
+        "content": "Azure 액티브 디렉터리(Azure AD)는 애플리케이션 및 리소스에 대한 액세스를 관리하고 보호할 수 있는 클라우드 기반 ID 및 액세스 관리 서비스입니다. SSO(싱글 사인온), MFA(다단계 인증), 조건부 액세스 등의 기능을 제공합니다. Windows, macOS, Linux 등 다양한 플랫폼을 지원합니다. Azure 액티브 디렉터리를 사용하여 애플리케이션을 보호하고, 워크로드의 규정 준수를 보장하며, ID 관리를 간소화할 수 있습니다. Azure Virtual Machines, Azure App Service 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "보안"
+    },
+    {
+        "id": "101",
+        "title": "Azure 익스프레스라우트",
+        "content": "Azure 익스프레스라우트는 온프레미스 네트워크를 전용 연결을 통해 Azure로 안전하게 확장할 수 있는 전용 프라이빗 연결 서비스입니다. 낮은 지연 시간, 높은 대역폭, Azure Virtual Network와의 통합 등의 기능을 제공합니다. 포인트 투 포인트, MPLS, SD-WAN 등 다양한 연결 모델을 지원합니다. Azure 익스프레스라우트를 사용하여 하이브리드 애플리케이션을 구축하고, 전송 중인 데이터의 성능과 보안을 보장하며, 네트워크 신뢰성을 향상시킬 수 있습니다. Azure VPN Gateway, Azure Traffic Manager 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "네트워킹"
+    },
+    {
+        "id": "102",
+        "title": "Azure 프라이빗 링크",
+        "content": "Azure 프라이빗 링크는 Azure Virtual Network 내에서 프라이빗 연결을 통해 Azure 서비스에 액세스할 수 있는 안전한 프라이빗 연결 서비스입니다. 프라이빗 IP 주소, 데이터 유출 방지, Azure Private DNS와의 통합 등의 기능을 제공합니다. Azure Storage, Azure SQL Database, Azure App Service 등 다양한 Azure 서비스를 지원합니다. Azure 프라이빗 링크를 사용하여 격리된 환경을 구축하고, 전송 중인 데이터의 보안을 보장하며, 네트워크 관리를 간소화할 수 있습니다. Azure Virtual Network, Azure Firewall 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "네트워킹"
+    },
+    {
+        "id": "103",
+        "title": "Azure 가상 WAN",
+        "content": "Azure 가상 WAN은 Azure에서 광역 네트워크(WAN)를 구축하고 관리할 수 있는 글로벌, 확장 가능하고 안전한 네트워킹 서비스입니다. 자동화된 사이트 간 VPN, 허브 앤 스포크 토폴로지, Azure Firewall과의 통합 등의 기능을 제공합니다. Azure Virtual Machines, Azure Storage, Azure App Service 등 다양한 Azure 서비스를 지원합니다. Azure 가상 WAN을 사용하여 하이브리드 애플리케이션을 구축하고, 전송 중인 데이터의 성능과 보안을 보장하며, 네트워크 신뢰성을 향상시킬 수 있습니다. Azure ExpressRoute, Azure Traffic Manager 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "네트워킹"
+    },
+    {
+        "id": "104",
+        "title": "Azure 사이트 복구",
+        "content": "Azure 사이트 복구는 애플리케이션 및 데이터를 보호하고 다양한 유형의 장애로부터 복구할 수 있는 완전 관리형 재해 복구 서비스입니다. 자동 장애 조치, 복구 계획, Azure Backup과의 통합 등의 기능을 제공합니다. Windows, Linux, VMware 등 다양한 플랫폼을 지원합니다. Azure 사이트 복구를 사용하여 애플리케이션의 가용성을 보장하고, 비즈니스 연속성을 유지하며, 재해 복구 프로세스를 자동화할 수 있습니다. Azure Virtual Machines, Azure Storage 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "관리 + 거버넌스"
+    },
+    {
+        "id": "105",
+        "title": "Azure 웹 퍼브섭",
+        "content": "Azure 웹 퍼브섭은 WebSockets를 사용하여 실시간 웹 애플리케이션을 구축하고 확장할 수 있는 완전 관리형 실시간 메시징 서비스입니다. 자동 확장, 사용자 지정 도메인, 서버리스 통합 등의 기능을 제공합니다. C#, JavaScript, Java 등 다양한 프로그래밍 언어를 지원합니다. Azure 웹 퍼브섭을 사용하여 채팅 애플리케이션, 실시간 대시보드, 협업 도구를 구축할 수 있습니다. Azure Functions, Azure SignalR Service 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "웹"
+    },
+    {
+        "id": "106",
+        "title": "Azure 데이터 팩토리",
+        "content": "Azure 데이터 팩토리는 데이터 워크플로를 생성, 예약 및 관리할 수 있는 클라우드 기반 데이터 통합 서비스입니다. 데이터 이동, 데이터 변환, Azure Machine Learning과의 통합 등의 기능을 제공합니다. Azure Blob Storage, Azure Data Lake Storage, Azure SQL Database 등 다양한 데이터 소스를 지원합니다. Azure 데이터 팩토리를 사용하여 데이터 파이프라인을 구축하고, 빅데이터 분석 솔루션을 개발하며, 데이터를 Azure로 마이그레이션할 수 있습니다. Azure Synapse Analytics, Azure Data Lake Analytics 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "분석"
+    },
+    {
+        "id": "107",
+        "title": "Azure 데이터브릭스",
+        "content": "Azure 데이터브릭스는 Azure 클라우드에 최적화된 Apache Spark 기반 분석 플랫폼입니다. 데이터 과학자, 엔지니어, 비즈니스 사용자가 빅데이터를 처리, 분석 및 시각화할 수 있는 협업 작업 공간을 제공합니다. Python, Scala, R, SQL 등 다양한 프로그래밍 언어를 지원합니다. Azure Blob Storage, Azure Data Lake Storage, Azure Cosmos DB와의 통합이 내장되어 있습니다. 데이터브릭스를 사용하여 머신러닝 모델을 훈련 및 배포하고, Azure Machine Learning과 통합할 수 있습니다.",
+        "category": "분석"
+    },
+    {
+        "id": "108",
+        "title": "Azure 바스천",
+        "content": "Azure 바스천은 가상 머신에 원격 액세스를 제공하는 완전 관리형, 안전하고 확장 가능한 서비스입니다. 프라이빗 연결, 안전한 RDP/SSH 세션, 브라우저 기반 액세스 등의 기능을 제공합니다. Azure Virtual Machines, Azure Virtual Network, Azure Active Directory 등 다양한 Azure 서비스를 지원합니다. Azure 바스천을 사용하여 가상 머신에 안전하게 액세스하고, 공격 표면을 최소화하며, 인프라의 보안을 향상시킬 수 있습니다. Azure Monitor, Azure Security Center 등 다른 Azure 서비스와 통합됩니다.",
+        "category": "보안"
+    }
+]
