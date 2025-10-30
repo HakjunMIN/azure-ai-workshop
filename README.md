@@ -67,6 +67,11 @@ GPT-4의 비전 기능을 활용하여 이미지 처리 및 분석 작업을 수
 ### 11_Assistant.ipynb
 Azure OpenAI의 Assistant API를 사용하여 맞춤형 AI 어시스턴트를 생성하는 방법을 안내합니다. 이 노트북에서는 어시스턴트 생성, 사용자와의 대화 관리, 스레드 생성 및 실행, 그리고 대화 기록 관리와 같은 기능을 다룹니다. 이를 통해 사용자는 특정 요구에 맞는 AI 어시스턴트를 설계할 수 있습니다.
 
+## Advanced 노트북
+
+### advanced/nl2nosql.ipynb
+자연어 질문을 MongoDB 쿼리로 변환하는 NL2NoSQL 시스템을 구현합니다. Docker로 MongoDB를 실행하고, 삼성전자 제품 데이터(스펙 정보 배열 포함)를 저장한 후, Azure OpenAI를 활용하여 "15인치 화면보다 작은 랩탑을 찾아줘"와 같은 자연어 질문을 MongoDB 필터 쿼리로 변환하여 실행합니다. NoSQL 데이터베이스와 AI의 통합 사례를 보여줍니다.
+
 ## Reference
 - [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
 - [OpenAI API Reference](https://platform.openai.com/docs/api-reference)
