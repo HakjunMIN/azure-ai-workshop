@@ -24,6 +24,9 @@ dependencies = [
     "diagrams>=0.24.4",
     "graphviz>=0.20.3",
     "pymongo>=4.6.0",
+    "langchain>=0.1.20",
+    "langchain-openai>=0.1.6",
+    "langgraph>=0.0.51",
 ]
 
 [tool.setuptools.packages.find]
