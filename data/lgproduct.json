@@ -1,0 +1,1755 @@
+[
+  {
+    "product_id": "TV-OLED-G4-97",
+    "name": "LG OLED evo G4 97인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 29900000,
+    "release_date": "2024-03-15",
+    "specifications": [
+      {"name": "화면크기", "value": 97, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "OLED evo", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 3000, "unit": "nits"},
+      {"name": "HDR", "value": "Dolby Vision, HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-OLED-G4-83",
+    "name": "LG OLED evo G4 83인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 11900000,
+    "release_date": "2024-03-15",
+    "specifications": [
+      {"name": "화면크기", "value": 83, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "OLED evo", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 3000, "unit": "nits"},
+      {"name": "HDR", "value": "Dolby Vision, HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-OLED-G4-77",
+    "name": "LG OLED evo G4 77인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 8490000,
+    "release_date": "2024-03-15",
+    "specifications": [
+      {"name": "화면크기", "value": 77, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "OLED evo", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 3000, "unit": "nits"},
+      {"name": "HDR", "value": "Dolby Vision, HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-OLED-G4-65",
+    "name": "LG OLED evo G4 65인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 5490000,
+    "release_date": "2024-03-15",
+    "specifications": [
+      {"name": "화면크기", "value": 65, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "OLED evo", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 2100, "unit": "nits"},
+      {"name": "HDR", "value": "Dolby Vision, HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-OLED-G4-55",
+    "name": "LG OLED evo G4 55인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 3790000,
+    "release_date": "2024-03-15",
+    "specifications": [
+      {"name": "화면크기", "value": 55, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "OLED evo", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 2100, "unit": "nits"},
+      {"name": "HDR", "value": "Dolby Vision, HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-OLED-C4-83",
+    "name": "LG OLED evo C4 83인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 6990000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "화면크기", "value": 83, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "OLED evo", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 2100, "unit": "nits"},
+      {"name": "HDR", "value": "Dolby Vision, HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-OLED-C4-65",
+    "name": "LG OLED evo C4 65인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 3590000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "화면크기", "value": 65, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "OLED evo", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 2100, "unit": "nits"},
+      {"name": "HDR", "value": "Dolby Vision, HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-OLED-C4-55",
+    "name": "LG OLED evo C4 55인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 2490000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "화면크기", "value": 55, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "OLED evo", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 2100, "unit": "nits"},
+      {"name": "HDR", "value": "Dolby Vision, HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-OLED-C4-48",
+    "name": "LG OLED evo C4 48인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 1890000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "화면크기", "value": 48, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "OLED evo", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 2100, "unit": "nits"},
+      {"name": "HDR", "value": "Dolby Vision, HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-OLED-B4-77",
+    "name": "LG OLED B4 77인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 4290000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "화면크기", "value": 77, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "OLED", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 1300, "unit": "nits"},
+      {"name": "HDR", "value": "Dolby Vision, HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-OLED-B4-65",
+    "name": "LG OLED B4 65인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 2690000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "화면크기", "value": 65, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "OLED", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 1300, "unit": "nits"},
+      {"name": "HDR", "value": "Dolby Vision, HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-OLED-B4-55",
+    "name": "LG OLED B4 55인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 1790000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "화면크기", "value": 55, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "OLED", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 1300, "unit": "nits"},
+      {"name": "HDR", "value": "Dolby Vision, HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-QNED-91-86",
+    "name": "LG QNED91 86인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 4590000,
+    "release_date": "2024-04-15",
+    "specifications": [
+      {"name": "화면크기", "value": 86, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "QNED", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 1200, "unit": "nits"},
+      {"name": "HDR", "value": "HDR10 Pro", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-QNED-91-75",
+    "name": "LG QNED91 75인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 2990000,
+    "release_date": "2024-04-15",
+    "specifications": [
+      {"name": "화면크기", "value": 75, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "QNED", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 1200, "unit": "nits"},
+      {"name": "HDR", "value": "HDR10 Pro", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-QNED-91-65",
+    "name": "LG QNED91 65인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 1990000,
+    "release_date": "2024-04-15",
+    "specifications": [
+      {"name": "화면크기", "value": 65, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "QNED", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 1200, "unit": "nits"},
+      {"name": "HDR", "value": "HDR10 Pro", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-QNED-85-75",
+    "name": "LG QNED85 75인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 2490000,
+    "release_date": "2024-05-10",
+    "specifications": [
+      {"name": "화면크기", "value": 75, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "QNED", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 900, "unit": "nits"},
+      {"name": "HDR", "value": "HDR10 Pro", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-QNED-85-65",
+    "name": "LG QNED85 65인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 1690000,
+    "release_date": "2024-05-10",
+    "specifications": [
+      {"name": "화면크기", "value": 65, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "QNED", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 900, "unit": "nits"},
+      {"name": "HDR", "value": "HDR10 Pro", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-QNED-85-55",
+    "name": "LG QNED85 55인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 1290000,
+    "release_date": "2024-05-10",
+    "specifications": [
+      {"name": "화면크기", "value": 55, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "QNED", "unit": ""},
+      {"name": "주사율", "value": 60, "unit": "Hz"},
+      {"name": "밝기", "value": 900, "unit": "nits"},
+      {"name": "HDR", "value": "HDR10 Pro", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-UHD-UT90-75",
+    "name": "LG UHD TV UT90 75인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 1790000,
+    "release_date": "2024-06-01",
+    "specifications": [
+      {"name": "화면크기", "value": 75, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "LED", "unit": ""},
+      {"name": "주사율", "value": 60, "unit": "Hz"},
+      {"name": "밝기", "value": 600, "unit": "nits"},
+      {"name": "HDR", "value": "HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-UHD-UT90-65",
+    "name": "LG UHD TV UT90 65인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 1290000,
+    "release_date": "2024-06-01",
+    "specifications": [
+      {"name": "화면크기", "value": 65, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "LED", "unit": ""},
+      {"name": "주사율", "value": 60, "unit": "Hz"},
+      {"name": "밝기", "value": 600, "unit": "nits"},
+      {"name": "HDR", "value": "HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-UHD-UT90-55",
+    "name": "LG UHD TV UT90 55인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 890000,
+    "release_date": "2024-06-01",
+    "specifications": [
+      {"name": "화면크기", "value": 55, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "LED", "unit": ""},
+      {"name": "주사율", "value": 60, "unit": "Hz"},
+      {"name": "밝기", "value": 600, "unit": "nits"},
+      {"name": "HDR", "value": "HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TV-SQ-OLED-M4-97",
+    "name": "LG 시그니처 OLED M4 97인치",
+    "category": "TV",
+    "brand": "LG",
+    "price": 39900000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "화면크기", "value": 97, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "패널타입", "value": "OLED evo", "unit": ""},
+      {"name": "주사율", "value": 120, "unit": "Hz"},
+      {"name": "밝기", "value": 3000, "unit": "nits"},
+      {"name": "무선전송", "value": "Zero Connect Box", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "GRAM-17-2024-U",
+    "name": "LG 그램 17 (2024) Ultra",
+    "category": "노트북",
+    "brand": "LG",
+    "price": 2890000,
+    "release_date": "2024-02-01",
+    "specifications": [
+      {"name": "화면크기", "value": 17, "unit": "인치"},
+      {"name": "해상도", "value": "2560x1600", "unit": "픽셀"},
+      {"name": "프로세서", "value": "Intel Core Ultra 7 155H", "unit": ""},
+      {"name": "메모리", "value": 32, "unit": "GB"},
+      {"name": "저장공간", "value": 1024, "unit": "GB"},
+      {"name": "무게", "value": 1.35, "unit": "kg"},
+      {"name": "배터리", "value": 77, "unit": "Wh"}
+    ]
+  },
+  {
+    "product_id": "GRAM-17-2024-S",
+    "name": "LG 그램 17 (2024) Standard",
+    "category": "노트북",
+    "brand": "LG",
+    "price": 2190000,
+    "release_date": "2024-02-01",
+    "specifications": [
+      {"name": "화면크기", "value": 17, "unit": "인치"},
+      {"name": "해상도", "value": "2560x1600", "unit": "픽셀"},
+      {"name": "프로세서", "value": "Intel Core Ultra 5 125H", "unit": ""},
+      {"name": "메모리", "value": 16, "unit": "GB"},
+      {"name": "저장공간", "value": 512, "unit": "GB"},
+      {"name": "무게", "value": 1.35, "unit": "kg"},
+      {"name": "배터리", "value": 77, "unit": "Wh"}
+    ]
+  },
+  {
+    "product_id": "GRAM-16-2024-U",
+    "name": "LG 그램 16 (2024) Ultra",
+    "category": "노트북",
+    "brand": "LG",
+    "price": 2690000,
+    "release_date": "2024-02-01",
+    "specifications": [
+      {"name": "화면크기", "value": 16, "unit": "인치"},
+      {"name": "해상도", "value": "2560x1600", "unit": "픽셀"},
+      {"name": "프로세서", "value": "Intel Core Ultra 7 155H", "unit": ""},
+      {"name": "메모리", "value": 32, "unit": "GB"},
+      {"name": "저장공간", "value": 1024, "unit": "GB"},
+      {"name": "무게", "value": 1.19, "unit": "kg"},
+      {"name": "배터리", "value": 77, "unit": "Wh"}
+    ]
+  },
+  {
+    "product_id": "GRAM-16-2024-S",
+    "name": "LG 그램 16 (2024) Standard",
+    "category": "노트북",
+    "brand": "LG",
+    "price": 1990000,
+    "release_date": "2024-02-01",
+    "specifications": [
+      {"name": "화면크기", "value": 16, "unit": "인치"},
+      {"name": "해상도", "value": "2560x1600", "unit": "픽셀"},
+      {"name": "프로세서", "value": "Intel Core Ultra 5 125H", "unit": ""},
+      {"name": "메모리", "value": 16, "unit": "GB"},
+      {"name": "저장공간", "value": 512, "unit": "GB"},
+      {"name": "무게", "value": 1.19, "unit": "kg"},
+      {"name": "배터리", "value": 77, "unit": "Wh"}
+    ]
+  },
+  {
+    "product_id": "GRAM-15-2024",
+    "name": "LG 그램 15 (2024)",
+    "category": "노트북",
+    "brand": "LG",
+    "price": 1790000,
+    "release_date": "2024-02-15",
+    "specifications": [
+      {"name": "화면크기", "value": 15.6, "unit": "인치"},
+      {"name": "해상도", "value": "1920x1200", "unit": "픽셀"},
+      {"name": "프로세서", "value": "Intel Core Ultra 5 125H", "unit": ""},
+      {"name": "메모리", "value": 16, "unit": "GB"},
+      {"name": "저장공간", "value": 512, "unit": "GB"},
+      {"name": "무게", "value": 1.14, "unit": "kg"},
+      {"name": "배터리", "value": 63, "unit": "Wh"}
+    ]
+  },
+  {
+    "product_id": "GRAM-14-2024-U",
+    "name": "LG 그램 14 (2024) Ultra",
+    "category": "노트북",
+    "brand": "LG",
+    "price": 2490000,
+    "release_date": "2024-02-01",
+    "specifications": [
+      {"name": "화면크기", "value": 14, "unit": "인치"},
+      {"name": "해상도", "value": "2880x1800", "unit": "픽셀"},
+      {"name": "프로세서", "value": "Intel Core Ultra 7 155H", "unit": ""},
+      {"name": "메모리", "value": 32, "unit": "GB"},
+      {"name": "저장공간", "value": 1024, "unit": "GB"},
+      {"name": "무게", "value": 0.99, "unit": "kg"},
+      {"name": "배터리", "value": 72, "unit": "Wh"}
+    ]
+  },
+  {
+    "product_id": "GRAM-14-2024-S",
+    "name": "LG 그램 14 (2024) Standard",
+    "category": "노트북",
+    "brand": "LG",
+    "price": 1690000,
+    "release_date": "2024-02-15",
+    "specifications": [
+      {"name": "화면크기", "value": 14, "unit": "인치"},
+      {"name": "해상도", "value": "1920x1200", "unit": "픽셀"},
+      {"name": "프로세서", "value": "Intel Core Ultra 5 125H", "unit": ""},
+      {"name": "메모리", "value": 16, "unit": "GB"},
+      {"name": "저장공간", "value": 256, "unit": "GB"},
+      {"name": "무게", "value": 0.99, "unit": "kg"},
+      {"name": "배터리", "value": 72, "unit": "Wh"}
+    ]
+  },
+  {
+    "product_id": "GRAM-PRO-17",
+    "name": "LG 그램 Pro 17",
+    "category": "노트북",
+    "brand": "LG",
+    "price": 3290000,
+    "release_date": "2024-01-15",
+    "specifications": [
+      {"name": "화면크기", "value": 17, "unit": "인치"},
+      {"name": "해상도", "value": "2560x1600", "unit": "픽셀"},
+      {"name": "프로세서", "value": "Intel Core Ultra 9 185H", "unit": ""},
+      {"name": "메모리", "value": 32, "unit": "GB"},
+      {"name": "저장공간", "value": 2048, "unit": "GB"},
+      {"name": "무게", "value": 1.35, "unit": "kg"},
+      {"name": "배터리", "value": 77, "unit": "Wh"},
+      {"name": "GPU", "value": "NVIDIA RTX 3050", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "GRAM-PRO-16",
+    "name": "LG 그램 Pro 16",
+    "category": "노트북",
+    "brand": "LG",
+    "price": 2990000,
+    "release_date": "2024-01-15",
+    "specifications": [
+      {"name": "화면크기", "value": 16, "unit": "인치"},
+      {"name": "해상도", "value": "2560x1600", "unit": "픽셀"},
+      {"name": "프로세서", "value": "Intel Core Ultra 9 185H", "unit": ""},
+      {"name": "메모리", "value": 32, "unit": "GB"},
+      {"name": "저장공간", "value": 1024, "unit": "GB"},
+      {"name": "무게", "value": 1.19, "unit": "kg"},
+      {"name": "배터리", "value": 77, "unit": "Wh"},
+      {"name": "GPU", "value": "NVIDIA RTX 3050", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "GRAM-2IN1-16",
+    "name": "LG 그램 2in1 16",
+    "category": "노트북",
+    "brand": "LG",
+    "price": 2390000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "화면크기", "value": 16, "unit": "인치"},
+      {"name": "해상도", "value": "2560x1600", "unit": "픽셀"},
+      {"name": "프로세서", "value": "Intel Core Ultra 7 155H", "unit": ""},
+      {"name": "메모리", "value": 16, "unit": "GB"},
+      {"name": "저장공간", "value": 512, "unit": "GB"},
+      {"name": "무게", "value": 1.48, "unit": "kg"},
+      {"name": "배터리", "value": 77, "unit": "Wh"},
+      {"name": "터치스크린", "value": "지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "MON-UG-32GS95UE",
+    "name": "LG 울트라기어 OLED 32GS95UE",
+    "category": "모니터",
+    "brand": "LG",
+    "price": 1490000,
+    "release_date": "2024-06-01",
+    "specifications": [
+      {"name": "화면크기", "value": 32, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "주사율", "value": 240, "unit": "Hz"},
+      {"name": "패널타입", "value": "OLED", "unit": ""},
+      {"name": "응답속도", "value": 0.03, "unit": "ms"},
+      {"name": "HDR", "value": "DisplayHDR True Black 400", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "MON-UG-27GS95QE",
+    "name": "LG 울트라기어 OLED 27GS95QE",
+    "category": "모니터",
+    "brand": "LG",
+    "price": 1290000,
+    "release_date": "2024-05-15",
+    "specifications": [
+      {"name": "화면크기", "value": 27, "unit": "인치"},
+      {"name": "해상도", "value": "2560x1440", "unit": "픽셀"},
+      {"name": "주사율", "value": 240, "unit": "Hz"},
+      {"name": "패널타입", "value": "OLED", "unit": ""},
+      {"name": "응답속도", "value": 0.03, "unit": "ms"},
+      {"name": "HDR", "value": "DisplayHDR True Black 400", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "MON-UG-45GS96QB",
+    "name": "LG 울트라기어 OLED 45GS96QB",
+    "category": "모니터",
+    "brand": "LG",
+    "price": 2390000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "화면크기", "value": 45, "unit": "인치"},
+      {"name": "해상도", "value": "3440x1440", "unit": "픽셀"},
+      {"name": "주사율", "value": 240, "unit": "Hz"},
+      {"name": "패널타입", "value": "OLED", "unit": ""},
+      {"name": "응답속도", "value": 0.03, "unit": "ms"},
+      {"name": "화면비율", "value": "21:9", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "MON-UG-27GP95U",
+    "name": "LG 울트라기어 27GP95U",
+    "category": "모니터",
+    "brand": "LG",
+    "price": 890000,
+    "release_date": "2024-03-15",
+    "specifications": [
+      {"name": "화면크기", "value": 27, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "주사율", "value": 160, "unit": "Hz"},
+      {"name": "패널타입", "value": "Nano IPS", "unit": ""},
+      {"name": "응답속도", "value": 1, "unit": "ms"},
+      {"name": "HDR", "value": "VESA DisplayHDR 600", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "MON-UG-32GR93U",
+    "name": "LG 울트라기어 32GR93U",
+    "category": "모니터",
+    "brand": "LG",
+    "price": 790000,
+    "release_date": "2024-02-01",
+    "specifications": [
+      {"name": "화면크기", "value": 32, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "주사율", "value": 144, "unit": "Hz"},
+      {"name": "패널타입", "value": "IPS", "unit": ""},
+      {"name": "응답속도", "value": 1, "unit": "ms"},
+      {"name": "HDR", "value": "VESA DisplayHDR 400", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "MON-UF-32UN880",
+    "name": "LG 울트라파인 에르고 32UN880",
+    "category": "모니터",
+    "brand": "LG",
+    "price": 890000,
+    "release_date": "2024-01-10",
+    "specifications": [
+      {"name": "화면크기", "value": 32, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "주사율", "value": 60, "unit": "Hz"},
+      {"name": "패널타입", "value": "IPS", "unit": ""},
+      {"name": "응답속도", "value": 5, "unit": "ms"},
+      {"name": "HDR", "value": "HDR10", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "MON-UF-27UN850",
+    "name": "LG 울트라파인 27UN850",
+    "category": "모니터",
+    "brand": "LG",
+    "price": 590000,
+    "release_date": "2024-01-10",
+    "specifications": [
+      {"name": "화면크기", "value": 27, "unit": "인치"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "주사율", "value": 60, "unit": "Hz"},
+      {"name": "패널타입", "value": "IPS", "unit": ""},
+      {"name": "응답속도", "value": 5, "unit": "ms"},
+      {"name": "USB-C", "value": "96W PD", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "MON-UW-49WQ95C",
+    "name": "LG 울트라와이드 49WQ95C",
+    "category": "모니터",
+    "brand": "LG",
+    "price": 2190000,
+    "release_date": "2024-02-15",
+    "specifications": [
+      {"name": "화면크기", "value": 49, "unit": "인치"},
+      {"name": "해상도", "value": "5120x1440", "unit": "픽셀"},
+      {"name": "주사율", "value": 144, "unit": "Hz"},
+      {"name": "패널타입", "value": "Nano IPS", "unit": ""},
+      {"name": "응답속도", "value": 1, "unit": "ms"},
+      {"name": "화면비율", "value": "32:9", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "MON-UW-40WP95C",
+    "name": "LG 울트라와이드 40WP95C",
+    "category": "모니터",
+    "brand": "LG",
+    "price": 1890000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "화면크기", "value": 40, "unit": "인치"},
+      {"name": "해상도", "value": "5120x2160", "unit": "픽셀"},
+      {"name": "주사율", "value": 72, "unit": "Hz"},
+      {"name": "패널타입", "value": "Nano IPS", "unit": ""},
+      {"name": "응답속도", "value": 5, "unit": "ms"},
+      {"name": "Thunderbolt", "value": "Thunderbolt 4", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "MON-UW-34WQ75C",
+    "name": "LG 울트라와이드 34WQ75C",
+    "category": "모니터",
+    "brand": "LG",
+    "price": 690000,
+    "release_date": "2024-01-15",
+    "specifications": [
+      {"name": "화면크기", "value": 34, "unit": "인치"},
+      {"name": "해상도", "value": "3440x1440", "unit": "픽셀"},
+      {"name": "주사율", "value": 60, "unit": "Hz"},
+      {"name": "패널타입", "value": "IPS", "unit": ""},
+      {"name": "응답속도", "value": 5, "unit": "ms"},
+      {"name": "화면비율", "value": "21:9", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "REF-DIOS-OBJ-T873",
+    "name": "LG 디오스 오브제컬렉션 냉장고 T873",
+    "category": "냉장고",
+    "brand": "LG",
+    "price": 4290000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "용량", "value": 873, "unit": "L"},
+      {"name": "도어타입", "value": "4도어", "unit": ""},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "냉각방식", "value": "인버터 리니어 컴프레서", "unit": ""},
+      {"name": "높이", "value": 1790, "unit": "mm"},
+      {"name": "너비", "value": 912, "unit": "mm"}
+    ]
+  },
+  {
+    "product_id": "REF-DIOS-OBJ-T613",
+    "name": "LG 디오스 오브제컬렉션 냉장고 T613",
+    "category": "냉장고",
+    "brand": "LG",
+    "price": 3290000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "용량", "value": 613, "unit": "L"},
+      {"name": "도어타입", "value": "4도어", "unit": ""},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "냉각방식", "value": "인버터 리니어 컴프레서", "unit": ""},
+      {"name": "높이", "value": 1790, "unit": "mm"},
+      {"name": "너비", "value": 835, "unit": "mm"}
+    ]
+  },
+  {
+    "product_id": "REF-DIOS-SBS-821",
+    "name": "LG 디오스 양문형 냉장고 S821",
+    "category": "냉장고",
+    "brand": "LG",
+    "price": 2490000,
+    "release_date": "2024-02-15",
+    "specifications": [
+      {"name": "용량", "value": 821, "unit": "L"},
+      {"name": "도어타입", "value": "양문형", "unit": ""},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "냉각방식", "value": "인버터 리니어 컴프레서", "unit": ""},
+      {"name": "높이", "value": 1785, "unit": "mm"},
+      {"name": "너비", "value": 912, "unit": "mm"}
+    ]
+  },
+  {
+    "product_id": "REF-DIOS-OBJ-407",
+    "name": "LG 디오스 오브제컬렉션 김치냉장고 407L",
+    "category": "냉장고",
+    "brand": "LG",
+    "price": 2190000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "용량", "value": 407, "unit": "L"},
+      {"name": "도어타입", "value": "스탠드형", "unit": ""},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "냉각방식", "value": "인버터 리니어 컴프레서", "unit": ""},
+      {"name": "높이", "value": 1838, "unit": "mm"},
+      {"name": "너비", "value": 595, "unit": "mm"}
+    ]
+  },
+  {
+    "product_id": "REF-DIOS-OBJ-519",
+    "name": "LG 디오스 오브제컬렉션 냉장고 T519",
+    "category": "냉장고",
+    "brand": "LG",
+    "price": 2790000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "용량", "value": 519, "unit": "L"},
+      {"name": "도어타입", "value": "상냉장 하냉동", "unit": ""},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "냉각방식", "value": "인버터 리니어 컴프레서", "unit": ""},
+      {"name": "높이", "value": 1790, "unit": "mm"},
+      {"name": "너비", "value": 700, "unit": "mm"}
+    ]
+  },
+  {
+    "product_id": "REF-DIOS-WINE-71",
+    "name": "LG 디오스 와인셀러 71병",
+    "category": "냉장고",
+    "brand": "LG",
+    "price": 1890000,
+    "release_date": "2024-01-20",
+    "specifications": [
+      {"name": "용량", "value": 71, "unit": "병"},
+      {"name": "도어타입", "value": "1도어", "unit": ""},
+      {"name": "에너지등급", "value": 2, "unit": "등급"},
+      {"name": "냉각방식", "value": "인버터 컴프레서", "unit": ""},
+      {"name": "온도범위", "value": "5~18", "unit": "℃"}
+    ]
+  },
+  {
+    "product_id": "REF-DIOS-MINI-137",
+    "name": "LG 디오스 미니 냉장고 137L",
+    "category": "냉장고",
+    "brand": "LG",
+    "price": 490000,
+    "release_date": "2024-06-01",
+    "specifications": [
+      {"name": "용량", "value": 137, "unit": "L"},
+      {"name": "도어타입", "value": "1도어", "unit": ""},
+      {"name": "에너지등급", "value": 3, "unit": "등급"},
+      {"name": "냉각방식", "value": "직냉식", "unit": ""},
+      {"name": "높이", "value": 850, "unit": "mm"},
+      {"name": "너비", "value": 530, "unit": "mm"}
+    ]
+  },
+  {
+    "product_id": "WASH-OBJ-F25",
+    "name": "LG 트롬 오브제컬렉션 세탁기 25kg",
+    "category": "세탁기",
+    "brand": "LG",
+    "price": 2290000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "세탁용량", "value": 25, "unit": "kg"},
+      {"name": "모터", "value": "인버터 DD 모터", "unit": ""},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "세탁방식", "value": "드럼", "unit": ""},
+      {"name": "소음", "value": 35, "unit": "dB"},
+      {"name": "물사용량", "value": 95, "unit": "L"}
+    ]
+  },
+  {
+    "product_id": "WASH-OBJ-F21",
+    "name": "LG 트롬 오브제컬렉션 세탁기 21kg",
+    "category": "세탁기",
+    "brand": "LG",
+    "price": 1890000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "세탁용량", "value": 21, "unit": "kg"},
+      {"name": "모터", "value": "인버터 DD 모터", "unit": ""},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "세탁방식", "value": "드럼", "unit": ""},
+      {"name": "소음", "value": 35, "unit": "dB"},
+      {"name": "물사용량", "value": 86, "unit": "L"}
+    ]
+  },
+  {
+    "product_id": "WASH-OBJ-F17",
+    "name": "LG 트롬 오브제컬렉션 세탁기 17kg",
+    "category": "세탁기",
+    "brand": "LG",
+    "price": 1490000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "세탁용량", "value": 17, "unit": "kg"},
+      {"name": "모터", "value": "인버터 DD 모터", "unit": ""},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "세탁방식", "value": "드럼", "unit": ""},
+      {"name": "소음", "value": 36, "unit": "dB"},
+      {"name": "물사용량", "value": 75, "unit": "L"}
+    ]
+  },
+  {
+    "product_id": "WASH-WM-24T",
+    "name": "LG 트롬 워시타워 24kg+16kg",
+    "category": "세탁기",
+    "brand": "LG",
+    "price": 3290000,
+    "release_date": "2024-02-15",
+    "specifications": [
+      {"name": "세탁용량", "value": 24, "unit": "kg"},
+      {"name": "건조용량", "value": 16, "unit": "kg"},
+      {"name": "모터", "value": "인버터 DD 모터", "unit": ""},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "세탁방식", "value": "드럼", "unit": ""},
+      {"name": "건조방식", "value": "히트펌프", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "WASH-WM-21T",
+    "name": "LG 트롬 워시타워 21kg+14kg",
+    "category": "세탁기",
+    "brand": "LG",
+    "price": 2790000,
+    "release_date": "2024-02-15",
+    "specifications": [
+      {"name": "세탁용량", "value": 21, "unit": "kg"},
+      {"name": "건조용량", "value": 14, "unit": "kg"},
+      {"name": "모터", "value": "인버터 DD 모터", "unit": ""},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "세탁방식", "value": "드럼", "unit": ""},
+      {"name": "건조방식", "value": "히트펌프", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "WASH-TOP-18",
+    "name": "LG 통돌이 세탁기 18kg",
+    "category": "세탁기",
+    "brand": "LG",
+    "price": 890000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "세탁용량", "value": 18, "unit": "kg"},
+      {"name": "모터", "value": "인버터 DD 모터", "unit": ""},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "세탁방식", "value": "통돌이", "unit": ""},
+      {"name": "소음", "value": 38, "unit": "dB"},
+      {"name": "물사용량", "value": 140, "unit": "L"}
+    ]
+  },
+  {
+    "product_id": "WASH-MINI-4",
+    "name": "LG 트롬 미니워시 4kg",
+    "category": "세탁기",
+    "brand": "LG",
+    "price": 590000,
+    "release_date": "2024-06-01",
+    "specifications": [
+      {"name": "세탁용량", "value": 4, "unit": "kg"},
+      {"name": "모터", "value": "인버터 DD 모터", "unit": ""},
+      {"name": "에너지등급", "value": 2, "unit": "등급"},
+      {"name": "세탁방식", "value": "드럼", "unit": ""},
+      {"name": "소음", "value": 40, "unit": "dB"},
+      {"name": "물사용량", "value": 30, "unit": "L"}
+    ]
+  },
+  {
+    "product_id": "DRY-OBJ-19",
+    "name": "LG 트롬 오브제컬렉션 건조기 19kg",
+    "category": "건조기",
+    "brand": "LG",
+    "price": 1890000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "건조용량", "value": 19, "unit": "kg"},
+      {"name": "건조방식", "value": "히트펌프", "unit": ""},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "소음", "value": 37, "unit": "dB"},
+      {"name": "모터", "value": "인버터 DD 모터", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "DRY-OBJ-16",
+    "name": "LG 트롬 오브제컬렉션 건조기 16kg",
+    "category": "건조기",
+    "brand": "LG",
+    "price": 1590000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "건조용량", "value": 16, "unit": "kg"},
+      {"name": "건조방식", "value": "히트펌프", "unit": ""},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "소음", "value": 37, "unit": "dB"},
+      {"name": "모터", "value": "인버터 DD 모터", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "DRY-OBJ-10",
+    "name": "LG 트롬 건조기 10kg",
+    "category": "건조기",
+    "brand": "LG",
+    "price": 1090000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "건조용량", "value": 10, "unit": "kg"},
+      {"name": "건조방식", "value": "히트펌프", "unit": ""},
+      {"name": "에너지등급", "value": 2, "unit": "등급"},
+      {"name": "소음", "value": 38, "unit": "dB"},
+      {"name": "모터", "value": "인버터 모터", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "AC-OBJ-DUAL-25",
+    "name": "LG 휘센 오브제컬렉션 듀얼 에어컨 25평",
+    "category": "에어컨",
+    "brand": "LG",
+    "price": 3890000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "냉방면적", "value": 25, "unit": "평"},
+      {"name": "냉방능력", "value": 8500, "unit": "W"},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "타입", "value": "스탠드형", "unit": ""},
+      {"name": "소음", "value": 23, "unit": "dB"},
+      {"name": "AI절전", "value": "지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "AC-OBJ-DUAL-20",
+    "name": "LG 휘센 오브제컬렉션 듀얼 에어컨 20평",
+    "category": "에어컨",
+    "brand": "LG",
+    "price": 3290000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "냉방면적", "value": 20, "unit": "평"},
+      {"name": "냉방능력", "value": 7200, "unit": "W"},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "타입", "value": "스탠드형", "unit": ""},
+      {"name": "소음", "value": 23, "unit": "dB"},
+      {"name": "AI절전", "value": "지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "AC-OBJ-16",
+    "name": "LG 휘센 오브제컬렉션 에어컨 16평",
+    "category": "에어컨",
+    "brand": "LG",
+    "price": 2490000,
+    "release_date": "2024-04-15",
+    "specifications": [
+      {"name": "냉방면적", "value": 16, "unit": "평"},
+      {"name": "냉방능력", "value": 5600, "unit": "W"},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "타입", "value": "스탠드형", "unit": ""},
+      {"name": "소음", "value": 24, "unit": "dB"},
+      {"name": "AI절전", "value": "지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "AC-WALL-13",
+    "name": "LG 휘센 벽걸이 에어컨 13평",
+    "category": "에어컨",
+    "brand": "LG",
+    "price": 1590000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "냉방면적", "value": 13, "unit": "평"},
+      {"name": "냉방능력", "value": 4500, "unit": "W"},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "타입", "value": "벽걸이형", "unit": ""},
+      {"name": "소음", "value": 21, "unit": "dB"},
+      {"name": "AI절전", "value": "지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "AC-WALL-10",
+    "name": "LG 휘센 벽걸이 에어컨 10평",
+    "category": "에어컨",
+    "brand": "LG",
+    "price": 1190000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "냉방면적", "value": 10, "unit": "평"},
+      {"name": "냉방능력", "value": 3300, "unit": "W"},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "타입", "value": "벽걸이형", "unit": ""},
+      {"name": "소음", "value": 22, "unit": "dB"},
+      {"name": "AI절전", "value": "지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "AC-WIND-7",
+    "name": "LG 휘센 창문형 에어컨 7평",
+    "category": "에어컨",
+    "brand": "LG",
+    "price": 590000,
+    "release_date": "2024-06-01",
+    "specifications": [
+      {"name": "냉방면적", "value": 7, "unit": "평"},
+      {"name": "냉방능력", "value": 2300, "unit": "W"},
+      {"name": "에너지등급", "value": 3, "unit": "등급"},
+      {"name": "타입", "value": "창문형", "unit": ""},
+      {"name": "소음", "value": 44, "unit": "dB"},
+      {"name": "무게", "value": 22, "unit": "kg"}
+    ]
+  },
+  {
+    "product_id": "AP-OBJ-AS351",
+    "name": "LG 퓨리케어 오브제컬렉션 에어로타워 AS351",
+    "category": "공기청정기",
+    "brand": "LG",
+    "price": 1490000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "적용면적", "value": 100, "unit": "㎡"},
+      {"name": "CADR", "value": 480, "unit": "㎥/h"},
+      {"name": "필터", "value": "360° HEPA", "unit": ""},
+      {"name": "소음", "value": 22, "unit": "dB"},
+      {"name": "기능", "value": "온풍+냉풍", "unit": ""},
+      {"name": "PM센서", "value": "PM1.0", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "AP-OBJ-AS311",
+    "name": "LG 퓨리케어 오브제컬렉션 에어로타워 AS311",
+    "category": "공기청정기",
+    "brand": "LG",
+    "price": 1090000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "적용면적", "value": 68, "unit": "㎡"},
+      {"name": "CADR", "value": 350, "unit": "㎥/h"},
+      {"name": "필터", "value": "360° HEPA", "unit": ""},
+      {"name": "소음", "value": 23, "unit": "dB"},
+      {"name": "기능", "value": "냉풍", "unit": ""},
+      {"name": "PM센서", "value": "PM1.0", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "AP-PET-AS190",
+    "name": "LG 퓨리케어 펫 공기청정기 AS190",
+    "category": "공기청정기",
+    "brand": "LG",
+    "price": 790000,
+    "release_date": "2024-04-15",
+    "specifications": [
+      {"name": "적용면적", "value": 54, "unit": "㎡"},
+      {"name": "CADR", "value": 300, "unit": "㎥/h"},
+      {"name": "필터", "value": "펫 전용 필터", "unit": ""},
+      {"name": "소음", "value": 24, "unit": "dB"},
+      {"name": "기능", "value": "펫 모드", "unit": ""},
+      {"name": "PM센서", "value": "PM2.5", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "AP-MINI-AS111",
+    "name": "LG 퓨리케어 미니 공기청정기",
+    "category": "공기청정기",
+    "brand": "LG",
+    "price": 290000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "적용면적", "value": 25, "unit": "㎡"},
+      {"name": "CADR", "value": 150, "unit": "㎥/h"},
+      {"name": "필터", "value": "HEPA", "unit": ""},
+      {"name": "소음", "value": 25, "unit": "dB"},
+      {"name": "무게", "value": 3.5, "unit": "kg"},
+      {"name": "PM센서", "value": "PM2.5", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "AP-CAR-AP151",
+    "name": "LG 퓨리케어 차량용 공기청정기",
+    "category": "공기청정기",
+    "brand": "LG",
+    "price": 190000,
+    "release_date": "2024-05-15",
+    "specifications": [
+      {"name": "적용면적", "value": 10, "unit": "㎡"},
+      {"name": "CADR", "value": 60, "unit": "㎥/h"},
+      {"name": "필터", "value": "HEPA", "unit": ""},
+      {"name": "소음", "value": 28, "unit": "dB"},
+      {"name": "무게", "value": 0.8, "unit": "kg"},
+      {"name": "전원", "value": "USB-C", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "SB-SP11RA",
+    "name": "LG 사운드바 SP11RA",
+    "category": "사운드바",
+    "brand": "LG",
+    "price": 1990000,
+    "release_date": "2024-03-15",
+    "specifications": [
+      {"name": "채널", "value": "7.1.4", "unit": "ch"},
+      {"name": "출력", "value": 770, "unit": "W"},
+      {"name": "Dolby Atmos", "value": "지원", "unit": ""},
+      {"name": "서브우퍼", "value": "무선", "unit": ""},
+      {"name": "리어스피커", "value": "포함", "unit": ""},
+      {"name": "HDMI eARC", "value": "지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "SB-SP9YA",
+    "name": "LG 사운드바 SP9YA",
+    "category": "사운드바",
+    "brand": "LG",
+    "price": 1290000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "채널", "value": "5.1.2", "unit": "ch"},
+      {"name": "출력", "value": 520, "unit": "W"},
+      {"name": "Dolby Atmos", "value": "지원", "unit": ""},
+      {"name": "서브우퍼", "value": "무선", "unit": ""},
+      {"name": "HDMI eARC", "value": "지원", "unit": ""},
+      {"name": "AI사운드", "value": "지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "SB-SP7YA",
+    "name": "LG 사운드바 SP7YA",
+    "category": "사운드바",
+    "brand": "LG",
+    "price": 690000,
+    "release_date": "2024-04-15",
+    "specifications": [
+      {"name": "채널", "value": "5.1", "unit": "ch"},
+      {"name": "출력", "value": 380, "unit": "W"},
+      {"name": "Dolby Atmos", "value": "지원", "unit": ""},
+      {"name": "서브우퍼", "value": "무선", "unit": ""},
+      {"name": "블루투스", "value": "5.0", "unit": ""},
+      {"name": "옵티컬", "value": "지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "SB-SP2",
+    "name": "LG 사운드바 SP2",
+    "category": "사운드바",
+    "brand": "LG",
+    "price": 190000,
+    "release_date": "2024-06-01",
+    "specifications": [
+      {"name": "채널", "value": "2.1", "unit": "ch"},
+      {"name": "출력", "value": 100, "unit": "W"},
+      {"name": "서브우퍼", "value": "내장", "unit": ""},
+      {"name": "블루투스", "value": "5.0", "unit": ""},
+      {"name": "USB", "value": "지원", "unit": ""},
+      {"name": "무게", "value": 2.6, "unit": "kg"}
+    ]
+  },
+  {
+    "product_id": "ROB-R9-ULTRA",
+    "name": "LG 코드제로 R9 울트라",
+    "category": "로봇청소기",
+    "brand": "LG",
+    "price": 1890000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "흡입력", "value": 4000, "unit": "Pa"},
+      {"name": "배터리", "value": 5200, "unit": "mAh"},
+      {"name": "사용시간", "value": 120, "unit": "분"},
+      {"name": "소음", "value": 65, "unit": "dB"},
+      {"name": "물걸레", "value": "듀얼 스핀 모핑", "unit": ""},
+      {"name": "클린스테이션", "value": "자동 먼지비움", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "ROB-R9-PRO",
+    "name": "LG 코드제로 R9 프로",
+    "category": "로봇청소기",
+    "brand": "LG",
+    "price": 1490000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "흡입력", "value": 3000, "unit": "Pa"},
+      {"name": "배터리", "value": 4500, "unit": "mAh"},
+      {"name": "사용시간", "value": 100, "unit": "분"},
+      {"name": "소음", "value": 66, "unit": "dB"},
+      {"name": "물걸레", "value": "듀얼 스핀 모핑", "unit": ""},
+      {"name": "클린스테이션", "value": "자동 먼지비움", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "ROB-R9-STD",
+    "name": "LG 코드제로 R9",
+    "category": "로봇청소기",
+    "brand": "LG",
+    "price": 990000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "흡입력", "value": 2500, "unit": "Pa"},
+      {"name": "배터리", "value": 3300, "unit": "mAh"},
+      {"name": "사용시간", "value": 80, "unit": "분"},
+      {"name": "소음", "value": 67, "unit": "dB"},
+      {"name": "물걸레", "value": "지원", "unit": ""},
+      {"name": "클린스테이션", "value": "미포함", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "ROB-M9-TURBO",
+    "name": "LG 코드제로 M9 터보",
+    "category": "로봇청소기",
+    "brand": "LG",
+    "price": 690000,
+    "release_date": "2024-05-15",
+    "specifications": [
+      {"name": "흡입력", "value": 0, "unit": "Pa"},
+      {"name": "배터리", "value": 2600, "unit": "mAh"},
+      {"name": "사용시간", "value": 100, "unit": "분"},
+      {"name": "소음", "value": 60, "unit": "dB"},
+      {"name": "물걸레", "value": "듀얼 스핀 전용", "unit": ""},
+      {"name": "물탱크", "value": 300, "unit": "mL"}
+    ]
+  },
+  {
+    "product_id": "VAC-A9K-ULTRA",
+    "name": "LG 코드제로 A9K 울트라",
+    "category": "무선청소기",
+    "brand": "LG",
+    "price": 1390000,
+    "release_date": "2024-02-15",
+    "specifications": [
+      {"name": "흡입력", "value": 250, "unit": "W"},
+      {"name": "배터리", "value": 4000, "unit": "mAh"},
+      {"name": "사용시간", "value": 80, "unit": "분"},
+      {"name": "무게", "value": 1.44, "unit": "kg"},
+      {"name": "먼지통", "value": 0.44, "unit": "L"},
+      {"name": "올인원타워", "value": "자동 먼지비움", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "VAC-A9S-PRO",
+    "name": "LG 코드제로 A9S 프로",
+    "category": "무선청소기",
+    "brand": "LG",
+    "price": 990000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "흡입력", "value": 210, "unit": "W"},
+      {"name": "배터리", "value": 3300, "unit": "mAh"},
+      {"name": "사용시간", "value": 60, "unit": "분"},
+      {"name": "무게", "value": 1.5, "unit": "kg"},
+      {"name": "먼지통", "value": 0.44, "unit": "L"},
+      {"name": "올인원타워", "value": "포함", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "STYLER-OBJ-S5",
+    "name": "LG 스타일러 오브제컬렉션 S5",
+    "category": "스타일러",
+    "brand": "LG",
+    "price": 2490000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "용량", "value": 5, "unit": "벌"},
+      {"name": "스팀", "value": "트루스팀", "unit": ""},
+      {"name": "건조", "value": "히트펌프 건조", "unit": ""},
+      {"name": "소음", "value": 35, "unit": "dB"},
+      {"name": "너비", "value": 445, "unit": "mm"},
+      {"name": "에너지등급", "value": 1, "unit": "등급"}
+    ]
+  },
+  {
+    "product_id": "STYLER-OBJ-S3",
+    "name": "LG 스타일러 오브제컬렉션 S3",
+    "category": "스타일러",
+    "brand": "LG",
+    "price": 1890000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "용량", "value": 3, "unit": "벌"},
+      {"name": "스팀", "value": "트루스팀", "unit": ""},
+      {"name": "건조", "value": "저온 건조", "unit": ""},
+      {"name": "소음", "value": 36, "unit": "dB"},
+      {"name": "너비", "value": 445, "unit": "mm"},
+      {"name": "에너지등급", "value": 2, "unit": "등급"}
+    ]
+  },
+  {
+    "product_id": "STYLER-SLIM-S1",
+    "name": "LG 스타일러 슬림 S1",
+    "category": "스타일러",
+    "brand": "LG",
+    "price": 990000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "용량", "value": 1, "unit": "벌"},
+      {"name": "스팀", "value": "트루스팀", "unit": ""},
+      {"name": "건조", "value": "자연 건조", "unit": ""},
+      {"name": "소음", "value": 32, "unit": "dB"},
+      {"name": "너비", "value": 350, "unit": "mm"},
+      {"name": "무게", "value": 15, "unit": "kg"}
+    ]
+  },
+  {
+    "product_id": "DW-OBJ-DFB41P",
+    "name": "LG 디오스 오브제컬렉션 식기세척기 DFB41P",
+    "category": "식기세척기",
+    "brand": "LG",
+    "price": 1690000,
+    "release_date": "2024-03-15",
+    "specifications": [
+      {"name": "용량", "value": 14, "unit": "인분"},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "세척방식", "value": "트루스팀", "unit": ""},
+      {"name": "소음", "value": 38, "unit": "dB"},
+      {"name": "건조방식", "value": "스테인리스 자연건조", "unit": ""},
+      {"name": "코스수", "value": 14, "unit": "개"}
+    ]
+  },
+  {
+    "product_id": "DW-OBJ-DFB22P",
+    "name": "LG 디오스 오브제컬렉션 식기세척기 DFB22P",
+    "category": "식기세척기",
+    "brand": "LG",
+    "price": 1290000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "용량", "value": 12, "unit": "인분"},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "세척방식", "value": "스팀", "unit": ""},
+      {"name": "소음", "value": 40, "unit": "dB"},
+      {"name": "건조방식", "value": "열풍건조", "unit": ""},
+      {"name": "코스수", "value": 10, "unit": "개"}
+    ]
+  },
+  {
+    "product_id": "DW-MINI-DFB6",
+    "name": "LG 디오스 미니 식기세척기 6인분",
+    "category": "식기세척기",
+    "brand": "LG",
+    "price": 590000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "용량", "value": 6, "unit": "인분"},
+      {"name": "에너지등급", "value": 2, "unit": "등급"},
+      {"name": "세척방식", "value": "스팀", "unit": ""},
+      {"name": "소음", "value": 42, "unit": "dB"},
+      {"name": "건조방식", "value": "자연건조", "unit": ""},
+      {"name": "코스수", "value": 6, "unit": "개"}
+    ]
+  },
+  {
+    "product_id": "MW-OBJ-MW39",
+    "name": "LG 디오스 오브제컬렉션 광파오븐 39L",
+    "category": "전자레인지",
+    "brand": "LG",
+    "price": 890000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "용량", "value": 39, "unit": "L"},
+      {"name": "출력", "value": 1200, "unit": "W"},
+      {"name": "타입", "value": "오븐 겸용", "unit": ""},
+      {"name": "자동요리", "value": 200, "unit": "가지"},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "디스플레이", "value": "터치 LCD", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "MW-OBJ-MW25",
+    "name": "LG 디오스 오브제컬렉션 전자레인지 25L",
+    "category": "전자레인지",
+    "brand": "LG",
+    "price": 490000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "용량", "value": 25, "unit": "L"},
+      {"name": "출력", "value": 1000, "unit": "W"},
+      {"name": "타입", "value": "전자레인지", "unit": ""},
+      {"name": "자동요리", "value": 60, "unit": "가지"},
+      {"name": "에너지등급", "value": 2, "unit": "등급"},
+      {"name": "디스플레이", "value": "LED", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "MW-BASIC-20",
+    "name": "LG 전자레인지 20L",
+    "category": "전자레인지",
+    "brand": "LG",
+    "price": 190000,
+    "release_date": "2024-05-15",
+    "specifications": [
+      {"name": "용량", "value": 20, "unit": "L"},
+      {"name": "출력", "value": 700, "unit": "W"},
+      {"name": "타입", "value": "전자레인지", "unit": ""},
+      {"name": "자동요리", "value": 10, "unit": "가지"},
+      {"name": "다이얼", "value": "기계식", "unit": ""},
+      {"name": "무게", "value": 10.5, "unit": "kg"}
+    ]
+  },
+  {
+    "product_id": "WP-OBJ-WD505",
+    "name": "LG 퓨리케어 오브제컬렉션 정수기 WD505",
+    "category": "정수기",
+    "brand": "LG",
+    "price": 1890000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "정수방식", "value": "RO역삼투압", "unit": ""},
+      {"name": "냉수온도", "value": 5, "unit": "℃"},
+      {"name": "온수온도", "value": 85, "unit": "℃"},
+      {"name": "탱크용량", "value": 3.0, "unit": "L"},
+      {"name": "필터수명", "value": 24, "unit": "개월"},
+      {"name": "자가살균", "value": "스테리 케어", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "WP-OBJ-WD303",
+    "name": "LG 퓨리케어 오브제컬렉션 정수기 WD303",
+    "category": "정수기",
+    "brand": "LG",
+    "price": 1290000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "정수방식", "value": "나노필터", "unit": ""},
+      {"name": "냉수온도", "value": 6, "unit": "℃"},
+      {"name": "온수온도", "value": 80, "unit": "℃"},
+      {"name": "탱크용량", "value": 2.5, "unit": "L"},
+      {"name": "필터수명", "value": 18, "unit": "개월"},
+      {"name": "자가살균", "value": "스테리 케어", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "WP-SLIM-WD101",
+    "name": "LG 퓨리케어 슬림 정수기",
+    "category": "정수기",
+    "brand": "LG",
+    "price": 590000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "정수방식", "value": "나노필터", "unit": ""},
+      {"name": "냉수온도", "value": 7, "unit": "℃"},
+      {"name": "온수온도", "value": 75, "unit": "℃"},
+      {"name": "탱크용량", "value": 1.5, "unit": "L"},
+      {"name": "필터수명", "value": 12, "unit": "개월"},
+      {"name": "너비", "value": 180, "unit": "mm"}
+    ]
+  },
+  {
+    "product_id": "PRJ-CINEBEAM-HU915QE",
+    "name": "LG 시네빔 HU915QE",
+    "category": "프로젝터",
+    "brand": "LG",
+    "price": 4990000,
+    "release_date": "2024-02-01",
+    "specifications": [
+      {"name": "밝기", "value": 3700, "unit": "루멘"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "투사거리", "value": 5.6, "unit": "cm"},
+      {"name": "타입", "value": "초단초점", "unit": ""},
+      {"name": "HDR", "value": "HDR10, HLG", "unit": ""},
+      {"name": "스피커", "value": 40, "unit": "W"}
+    ]
+  },
+  {
+    "product_id": "PRJ-CINEBEAM-HU710PB",
+    "name": "LG 시네빔 HU710PB",
+    "category": "프로젝터",
+    "brand": "LG",
+    "price": 2990000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "밝기", "value": 2000, "unit": "루멘"},
+      {"name": "해상도", "value": "3840x2160", "unit": "픽셀"},
+      {"name": "투사거리", "value": 300, "unit": "cm"},
+      {"name": "타입", "value": "일반", "unit": ""},
+      {"name": "HDR", "value": "HDR10, HLG", "unit": ""},
+      {"name": "램프수명", "value": 20000, "unit": "시간"}
+    ]
+  },
+  {
+    "product_id": "PRJ-CINEBEAM-PF50KA",
+    "name": "LG 시네빔 PF50KA 미니빔",
+    "category": "프로젝터",
+    "brand": "LG",
+    "price": 890000,
+    "release_date": "2024-04-15",
+    "specifications": [
+      {"name": "밝기", "value": 600, "unit": "루멘"},
+      {"name": "해상도", "value": "1920x1080", "unit": "픽셀"},
+      {"name": "투사거리", "value": 300, "unit": "cm"},
+      {"name": "타입", "value": "미니", "unit": ""},
+      {"name": "배터리", "value": 2.5, "unit": "시간"},
+      {"name": "무게", "value": 1.0, "unit": "kg"}
+    ]
+  },
+  {
+    "product_id": "COOK-IH-BEI3",
+    "name": "LG 디오스 인덕션 3구",
+    "category": "인덕션",
+    "brand": "LG",
+    "price": 1490000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "구수", "value": 3, "unit": "구"},
+      {"name": "최대출력", "value": 3400, "unit": "W"},
+      {"name": "타이머", "value": "지원", "unit": ""},
+      {"name": "안전잠금", "value": "지원", "unit": ""},
+      {"name": "너비", "value": 590, "unit": "mm"},
+      {"name": "플렉스존", "value": "지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "COOK-IH-BEI2",
+    "name": "LG 디오스 인덕션 2구",
+    "category": "인덕션",
+    "brand": "LG",
+    "price": 990000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "구수", "value": 2, "unit": "구"},
+      {"name": "최대출력", "value": 2800, "unit": "W"},
+      {"name": "타이머", "value": "지원", "unit": ""},
+      {"name": "안전잠금", "value": "지원", "unit": ""},
+      {"name": "너비", "value": 590, "unit": "mm"},
+      {"name": "플렉스존", "value": "미지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "COOK-PORT-IH1",
+    "name": "LG 포터블 인덕션 1구",
+    "category": "인덕션",
+    "brand": "LG",
+    "price": 290000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "구수", "value": 1, "unit": "구"},
+      {"name": "최대출력", "value": 1800, "unit": "W"},
+      {"name": "타이머", "value": "지원", "unit": ""},
+      {"name": "안전잠금", "value": "지원", "unit": ""},
+      {"name": "무게", "value": 2.8, "unit": "kg"},
+      {"name": "휴대", "value": "가능", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "DEHUM-OBJ-DQ193",
+    "name": "LG 휘센 오브제컬렉션 제습기 19L",
+    "category": "제습기",
+    "brand": "LG",
+    "price": 790000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "제습량", "value": 19, "unit": "L/일"},
+      {"name": "적용면적", "value": 66, "unit": "㎡"},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "소음", "value": 38, "unit": "dB"},
+      {"name": "물통용량", "value": 6, "unit": "L"},
+      {"name": "연속배수", "value": "지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "DEHUM-OBJ-DQ143",
+    "name": "LG 휘센 오브제컬렉션 제습기 14L",
+    "category": "제습기",
+    "brand": "LG",
+    "price": 590000,
+    "release_date": "2024-05-15",
+    "specifications": [
+      {"name": "제습량", "value": 14, "unit": "L/일"},
+      {"name": "적용면적", "value": 50, "unit": "㎡"},
+      {"name": "에너지등급", "value": 1, "unit": "등급"},
+      {"name": "소음", "value": 39, "unit": "dB"},
+      {"name": "물통용량", "value": 5.5, "unit": "L"},
+      {"name": "연속배수", "value": "지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "DEHUM-MINI-DQ83",
+    "name": "LG 휘센 미니 제습기 8L",
+    "category": "제습기",
+    "brand": "LG",
+    "price": 390000,
+    "release_date": "2024-06-01",
+    "specifications": [
+      {"name": "제습량", "value": 8, "unit": "L/일"},
+      {"name": "적용면적", "value": 30, "unit": "㎡"},
+      {"name": "에너지등급", "value": 2, "unit": "등급"},
+      {"name": "소음", "value": 40, "unit": "dB"},
+      {"name": "물통용량", "value": 3, "unit": "L"},
+      {"name": "무게", "value": 8.5, "unit": "kg"}
+    ]
+  },
+  {
+    "product_id": "XBOOM-GO-XG9",
+    "name": "LG XBOOM Go XG9",
+    "category": "블루투스스피커",
+    "brand": "LG",
+    "price": 390000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "출력", "value": 60, "unit": "W"},
+      {"name": "배터리", "value": 24, "unit": "시간"},
+      {"name": "방수등급", "value": "IP67", "unit": ""},
+      {"name": "블루투스", "value": "5.3", "unit": ""},
+      {"name": "무게", "value": 2.06, "unit": "kg"},
+      {"name": "조명", "value": "파티 라이팅", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "XBOOM-GO-XG7",
+    "name": "LG XBOOM Go XG7",
+    "category": "블루투스스피커",
+    "brand": "LG",
+    "price": 290000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "출력", "value": 40, "unit": "W"},
+      {"name": "배터리", "value": 24, "unit": "시간"},
+      {"name": "방수등급", "value": "IP67", "unit": ""},
+      {"name": "블루투스", "value": "5.3", "unit": ""},
+      {"name": "무게", "value": 0.9, "unit": "kg"},
+      {"name": "조명", "value": "파티 라이팅", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "XBOOM-GO-XG5",
+    "name": "LG XBOOM Go XG5",
+    "category": "블루투스스피커",
+    "brand": "LG",
+    "price": 190000,
+    "release_date": "2024-04-15",
+    "specifications": [
+      {"name": "출력", "value": 20, "unit": "W"},
+      {"name": "배터리", "value": 18, "unit": "시간"},
+      {"name": "방수등급", "value": "IP67", "unit": ""},
+      {"name": "블루투스", "value": "5.3", "unit": ""},
+      {"name": "무게", "value": 0.68, "unit": "kg"},
+      {"name": "조명", "value": "미지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TWS-FP9",
+    "name": "LG 톤프리 FP9",
+    "category": "이어폰",
+    "brand": "LG",
+    "price": 290000,
+    "release_date": "2024-03-01",
+    "specifications": [
+      {"name": "드라이버", "value": 10, "unit": "mm"},
+      {"name": "배터리", "value": 10, "unit": "시간"},
+      {"name": "충전케이스", "value": 24, "unit": "시간"},
+      {"name": "노이즈캔슬링", "value": "ANC", "unit": ""},
+      {"name": "방수등급", "value": "IPX4", "unit": ""},
+      {"name": "블루투스", "value": "5.3", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TWS-FP8",
+    "name": "LG 톤프리 FP8",
+    "category": "이어폰",
+    "brand": "LG",
+    "price": 220000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "드라이버", "value": 8, "unit": "mm"},
+      {"name": "배터리", "value": 8, "unit": "시간"},
+      {"name": "충전케이스", "value": 24, "unit": "시간"},
+      {"name": "노이즈캔슬링", "value": "ANC", "unit": ""},
+      {"name": "방수등급", "value": "IPX4", "unit": ""},
+      {"name": "블루투스", "value": "5.3", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "TWS-FP5",
+    "name": "LG 톤프리 FP5",
+    "category": "이어폰",
+    "brand": "LG",
+    "price": 150000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "드라이버", "value": 8, "unit": "mm"},
+      {"name": "배터리", "value": 6, "unit": "시간"},
+      {"name": "충전케이스", "value": 18, "unit": "시간"},
+      {"name": "노이즈캔슬링", "value": "미지원", "unit": ""},
+      {"name": "방수등급", "value": "IPX4", "unit": ""},
+      {"name": "블루투스", "value": "5.2", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "DRYER-HEAT-SH17",
+    "name": "LG 트롬 스팀 헤어드라이어 SH17",
+    "category": "헤어드라이어",
+    "brand": "LG",
+    "price": 590000,
+    "release_date": "2024-04-01",
+    "specifications": [
+      {"name": "출력", "value": 1700, "unit": "W"},
+      {"name": "온도단계", "value": 3, "unit": "단계"},
+      {"name": "풍속단계", "value": 4, "unit": "단계"},
+      {"name": "무게", "value": 0.6, "unit": "kg"},
+      {"name": "스팀기능", "value": "듀얼 스팀", "unit": ""},
+      {"name": "이온케어", "value": "지원", "unit": ""}
+    ]
+  },
+  {
+    "product_id": "DRYER-HEAT-SH13",
+    "name": "LG 트롬 헤어드라이어 SH13",
+    "category": "헤어드라이어",
+    "brand": "LG",
+    "price": 390000,
+    "release_date": "2024-05-01",
+    "specifications": [
+      {"name": "출력", "value": 1300, "unit": "W"},
+      {"name": "온도단계", "value": 3, "unit": "단계"},
+      {"name": "풍속단계", "value": 3, "unit": "단계"},
+      {"name": "무게", "value": 0.55, "unit": "kg"},
+      {"name": "스팀기능", "value": "미지원", "unit": ""},
+      {"name": "이온케어", "value": "지원", "unit": ""}
+    ]
+  }
+]
